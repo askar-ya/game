@@ -1,0 +1,631 @@
+# Translation of Plugins - No External Links - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - No External Links - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-12-08 21:02:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - No External Links - Stable (latest release)\n"
+
+#: public/partials/redirect.php:88
+msgid "sec"
+msgstr "сек"
+
+#: admin/Admin.php:558
+msgid "Enter domains you wish <b>TO BE</b> masked. One domain per line. All other domain will be ignored."
+msgstr "Введите список доменов (не URL), для которых вы <b>ХОТИТЕ</b> использовать SEO hide. Каждый домен на отдельной строке. Все другие домены будут проигнорированы."
+
+#: admin/Admin.php:581
+msgid "All links"
+msgstr "Все ссылки"
+
+#: admin/Admin.php:544
+msgid "Specific links"
+msgstr "Указанные ссылки"
+
+#: admin/Admin.php:535 admin/Admin.php:572
+msgid "Mode"
+msgstr "Режим"
+
+#: admin/Admin.php:1943
+msgid "Select Page"
+msgstr "Выбрать страницу"
+
+#: admin/Admin.php:969
+msgid "Redirect Page"
+msgstr "Страница перенаправления"
+
+#: admin/Admin.php:2249
+msgid "AES-256 Encoding - mcrypt has been deprecated in favour of OpenSSL."
+msgstr "Кодировка AES-256 из mcrypt была упразднена в пользу OpenSSL."
+
+#: admin/Admin.php:1971
+msgid ""
+"You can choose to target specific domains (include), or exclude specific domains\n"
+"                (exclude), by entering their URLs below. When entering a URL you should include the\n"
+"                protocol prefix - for example, https://google.com or\n"
+"                ftp://microsoft.com. Please note that domains with and without\n"
+"                \"www\" are considered different, so are \"http://\" and\n"
+"                \"https://\". If you wish to include or exclude \"pinterest.com\"\n"
+"                then you may want to specify \"https://pinterest.com\",\n"
+"                \"http://www.pinterest.com\", \"https://pinterest.com\" and\n"
+"                \"https://www.pinterest.com\"."
+msgstr "Вы можете выбрать домены (включить) или удалить определенные домены (исключить), введя их URL ниже. При вводе URL следует указать префикс протокола. Например, https://google.com или ftp://microsoft.com. Обратите внимание, что домены с \"www\" и без него считаются разными, как и \"http://\" и \"https://\". Если вы хотите включить или исключить \"pinterest.com\", то вам следует указать \"https://pinterest.com\", \"http://www.pinterest.com\", \"https://pinterest.com\" и \"https://www.pinterest.com\"."
+
+#: admin/Admin.php:1879
+msgid "Requires OpenSSL (Recommended) or Mcrypt (Deprecated in PHP 7)."
+msgstr "Требуется OpenSSL (рекомендуется) или Mcrypt (устарел в PHP 7)."
+
+#: admin/Admin.php:1244
+msgid "Surround Masked Links with &#x3C;noindex/&#x3E; tags"
+msgstr "Обрамлять маскированные ссылки тегами &#x3C;noindex/&#x3E;."
+
+#: public/partials/redirect.php:129
+msgid "You were going to the redirect link, but something did not work properly.<br> Please, click "
+msgstr "Вы пытались перейти по ссылке, но что-то пошло не так.<br> Пожалуйста, нажмите"
+
+#: admin/Admin.php:600
+msgid "Enter domains you wish <b>NOT TO BE</b> masked. One domain per line. All other domain will be ignored."
+msgstr "Введите список доменов (не URL), для которых вы <b>НЕ ХОТИТЕ</b> использовать SEO hide. Каждый домен на отдельной строке. Все другие домены будут проигнорированы."
+
+#: admin/Admin.php:524
+msgid "Enable"
+msgstr "Включить"
+
+#: admin/partials/settings.php:53
+msgid "Plugins"
+msgstr "Плагины"
+
+#: admin/Admin.php:516 admin/partials/settings.php:38
+msgid "SEO hide"
+msgstr "SEO hide"
+
+#: admin/Admin.php:1071
+msgid "307 (Temporary Redirect)"
+msgstr "307 (Temporary Redirect)"
+
+#: admin/Admin.php:1062
+msgid "302 (Found/Temporary Redirect)"
+msgstr "302 (Found/Temporary Redirect)"
+
+#: admin/Admin.php:1052
+msgid "301 (Moved Permanently)"
+msgstr "301 (Moved Permanently)"
+
+#: admin/Admin.php:1752
+msgid "Interstitial advertising"
+msgstr "Промежуточная страница"
+
+#: admin/Admin.php:1750
+msgid "Framed banner"
+msgstr "Загрузка во фрейм"
+
+#: admin/Admin.php:1748
+msgid "No advertising"
+msgstr "Без рекламы"
+
+#: admin/Admin.php:1741
+msgid "Advert Type"
+msgstr "Тип рекламы"
+
+#: admin/Admin.php:1735
+msgid "random"
+msgstr "случайный"
+
+#: admin/Admin.php:1733
+msgid "j.gs"
+msgstr "j.gs"
+
+#: admin/Admin.php:1731
+msgid "q.gs"
+msgstr "q.gs"
+
+#: admin/Admin.php:1729
+msgid "adf.ly"
+msgstr "adf.ly"
+
+#: admin/SiteHealth.php:91
+msgid "<p>Output Buffering is disabled, <em>Mask All Links</em> will not work. Contact your server administrator to get this feature enabled.</p>"
+msgstr "<p>Буферизация вывода отключена, настройка <em>Маскировать все ссылки</em> работать не будет. Свяжитесь с вашим системным администратором или службой поддержки для решения данной проблемы.</p>"
+
+#: admin/SiteHealth.php:85
+msgid "Output Buffering is disabled"
+msgstr "Буферизация вывода отключена"
+
+#: admin/SiteHealth.php:80
+msgid "<p>Output Buffering is enabled. <em>Mask All Links</em> will work.</p>"
+msgstr "<p>Буферизация вывода включена, настройка <em>Маскировать все ссылки</em> корректно работает.</p>"
+
+#: admin/SiteHealth.php:77 admin/SiteHealth.php:88
+msgid "Performance"
+msgstr "Быстродействие"
+
+#: admin/SiteHealth.php:74
+msgid "Output Buffering is enabled"
+msgstr "Буферизация вывода включена"
+
+#: admin/SiteHealth.php:56
+msgid "Output Buffering"
+msgstr "Буферизация вывода"
+
+#: admin/Admin.php:1845
+msgid "Signature"
+msgstr "Сигнатура"
+
+#: admin/Admin.php:1722 admin/Admin.php:1833
+msgid "Domain"
+msgstr "Домен"
+
+#: admin/Admin.php:869
+msgid "Yourls"
+msgstr "Yourls"
+
+#: admin/partials/settings.php:33
+msgid "Links"
+msgstr "Ссылки"
+
+#. Author URI of the plugin
+msgid "https://www.kobzarev.com/"
+msgstr "https://www.kobzarev.com/"
+
+#. Author of the plugin
+msgid "Mikhail Kobzarev"
+msgstr "Михаил Кобзарёв"
+
+#. Description of the plugin
+msgid "Convert external links into internal links, site wide or post/page specific. Add NoFollow, Click logging, and more..."
+msgstr "Плагин конвертирует внешние ссылки во внутренние для всего сайта или конкретной записи/страницы. Добавляет nofollow, журналирование переходов и многое другое."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/mihdan-no-external-links/"
+msgstr "https://ru.wordpress.org/plugins/mihdan-no-external-links/"
+
+#: public/Frontend.php:1022
+msgid "Unable to create \"external_links_logs\" table."
+msgstr "Не удалось создать таблицу \"external_links_logs\"."
+
+#: public/Frontend.php:737 public/Frontend.php:752 public/Frontend.php:1014
+msgid "Error was:"
+msgstr "Ошибка:"
+
+#: public/Frontend.php:735 public/Frontend.php:750 public/Frontend.php:1012
+msgid "Failed SQL: "
+msgstr "Ошибка выполнения SQL запроса:"
+
+#: public/Frontend.php:730
+msgid "Unable to create \"external_links_masks\" table."
+msgstr "Не удалось создать таблицу \"external_links_masks\"."
+
+#: public/partials/referrer-warning.php:34
+msgid "safe web site."
+msgstr "безопасный сайт."
+
+#: public/partials/referrer-warning.php:27
+msgid "You have been redirected through this website from a suspicious source. We prevented it and you are going to be redirected to our "
+msgstr "Вы были перенаправлены через этот веб-сайт из подозрительного источника. Мы предотвратили это, и вы будете перенаправлены на наш сайт"
+
+#: public/partials/redirect.php:136
+msgid "Sorry, no url redirect specified. Can't complete request."
+msgstr "Извините, но вы забыли указать адрес перенаправления. Запрос не может быть завершён."
+
+#: public/partials/redirect.php:133
+msgid " manually. "
+msgstr "вручную."
+
+#: public/partials/redirect.php:133
+msgid " to go to "
+msgstr "чтобы перейти по ссылке"
+
+#: public/partials/redirect.php:132
+msgid "HERE "
+msgstr "СЮДА"
+
+#: public/partials/redirect.php:22 public/partials/referrer-warning.php:22
+msgid "Redirecting..."
+msgstr "Перенаправляю..."
+
+#: includes/Upgrader.php:356
+msgid ""
+"Mihdan: No External Links Settings have been imported from an older version of the plugin,\n"
+"                    please double check them!"
+msgstr "Настройки были импортированы из более ранней версии плагина, пожалуйста, дважды проверьте их!"
+
+#: includes/Main.php:344
+msgid "You will be redirected in 3 seconds. If your browser does not automatically redirect you, please <a href=\"%linkurl%\">click here</a>."
+msgstr "Вы будете перенаправлены через 3 секунды. Если ваш браузер не поддерживает автоматическое перенаправление, пожалуйста, щёлкните <a href=\"%linkurl%\">здесь</a>."
+
+#: includes/Compatibility.php:90
+msgid "Plugin Activation Error"
+msgstr "Ошибка активации плагина"
+
+#: includes/Compatibility.php:89
+msgid "or greater"
+msgstr "или выше"
+
+#: includes/Compatibility.php:87
+msgid "requires"
+msgstr "требует"
+
+#. translators: 1: Count.
+#: admin/MaskTable.php:391
+msgid "%s masks deleted."
+msgstr "Масок удалено - %s."
+
+#: admin/MaskTable.php:375
+msgid "Mask deleted."
+msgstr "Маска удалена"
+
+#: admin/MaskTable.php:167
+msgid "No masks available."
+msgstr "Маски не доступны."
+
+#: admin/MaskTable.php:59 admin/MaskTable.php:243
+msgid "Mask"
+msgstr "Маска"
+
+#. translators: number of deleted items.
+#: admin/LogTable.php:395
+msgid "%s logs deleted."
+msgstr "Журналов удалено - %s."
+
+#: admin/LogTable.php:381
+msgid "Log deleted."
+msgstr "Журнал удалён."
+
+#: admin/LogTable.php:297 admin/MaskTable.php:319
+msgid "Are you sure you want to do this?"
+msgstr "Вы уверены, что хотите сделать это?"
+
+#: admin/LogTable.php:156
+msgid "Date/Time"
+msgstr "Дата/Время"
+
+#: admin/LogTable.php:155
+msgid "IP Address"
+msgstr "IP адрес"
+
+#: admin/LogTable.php:154
+msgid "User Agent"
+msgstr "Пользовательский агент"
+
+#: admin/LogTable.php:153
+msgid "Referring URL"
+msgstr "Ссылающийся URL"
+
+#: admin/LogTable.php:152 admin/MaskTable.php:242
+msgid "URL"
+msgstr "URL"
+
+#: admin/LogTable.php:75
+msgid "No logs available."
+msgstr "Журналы не доступны."
+
+#: admin/LogTable.php:59
+msgid "Log"
+msgstr "Журнал"
+
+#: admin/Admin.php:2269
+msgid "Output Buffering is disabled, Mask All Links will not work. Contact your server administrator to get this feature enabled."
+msgstr "Буферизация вывода отключена, настройка <em>Маскировать все ссылки</em> работать не будет. Свяжитесь с вашим системным администратором или службой поддержки для решения данной проблемы."
+
+#: admin/Admin.php:2163
+msgid "Link Masking"
+msgstr "Маскировка ссылок"
+
+#: admin/Admin.php:2146
+msgid "Do not mask links"
+msgstr "Не маскировать ссылки"
+
+#: admin/Admin.php:2136
+msgid "Use default settings"
+msgstr "Использовать настройки по-умолчанию"
+
+#: admin/Admin.php:2095
+msgid "May conflict with caching plugins."
+msgstr "Может конфликтовать с плагинами кэширования."
+
+#: admin/Admin.php:2092
+msgid "Do Not Mask Links When User Logged In"
+msgstr "Не маскировать ссылки для авторизованных пользователей"
+
+#: admin/Admin.php:2082
+msgid "Do Not Mask Follow Links"
+msgstr "Не маскировать ссылки с атрибутом rel=\"dofollow\""
+
+#: admin/Admin.php:2056
+msgid ""
+"Enter URLs you wish to exclude from being masked. One URL per line.\n"
+"                    Javascript, Magnet, Mailto, Skype and Tel links are all excluded by default.\n"
+"                    To exclude a full protocol, just add a line for that prefix - for example,\n"
+"                    \"ftp://\"."
+msgstr "Введите список URL, которые вы хотите исключить из процесса маскировки. Один URL на строке. <em>Javascript, Magnet, Mailto, Skype и Tel</em> ссылки исключаются по-умолчанию. Для исключения всех ссылок с определённым протоколом укажите его в виде \"<strong>ftp://</strong>\"."
+
+#: admin/Admin.php:2027
+msgid "Enter URLs you wish to be masked. One URL per line. All other URLs will be ignored."
+msgstr "Введите список URL, которые вы хотите замаскировать. Один URL на строке. Все остальные URL будут проигнорированы."
+
+#: admin/Admin.php:1920 admin/Admin.php:1955
+msgid "Javascript redirect not selected."
+msgstr "JavaScript редирект не выбран."
+
+#: admin/Admin.php:1771
+msgid "Login"
+msgstr "Логин"
+
+#: admin/Admin.php:1710
+msgid "User ID"
+msgstr "Идентификатор пользователя"
+
+#: admin/Admin.php:1698 admin/Admin.php:1783 admin/Admin.php:1808
+msgid "API Key"
+msgstr "Ключ API"
+
+#: admin/Admin.php:1595
+msgid ""
+"Adds comment lines like\n"
+"                              <code>&#x3C;!--mihdan-noexternallinks debug: some info--&#x3E;</code> to output."
+msgstr "Будет добавляться линия с комментарием <code>&#x3C;!--mihdan-noexternallinks debug: some info--&#x3E;</code> в выходной поток."
+
+#: admin/Admin.php:1591
+msgid "Enable Debug Mode"
+msgstr "Включить режим отладки"
+
+#: admin/Admin.php:1570
+msgid "Convert All Links to Text"
+msgstr "Конвертировать все ссылки в текст"
+
+#: admin/Admin.php:1560
+msgid "Remove All Links"
+msgstr "Удалить все ссылки"
+
+#: admin/Admin.php:1545
+msgid ""
+"Check for document referer and restrict redirect if it is not your own website.\n"
+"                              Useful against spoofing attacks."
+msgstr "Проверять заголовок referrer и ограничивать перенаправление, если это не ваш собственный веб-сайт. Полезно против атак с использованием подмены."
+
+#: admin/Admin.php:1541
+msgid "Check Referrer"
+msgstr "Проверять URL ссылающегося сайта"
+
+#: admin/Admin.php:1465
+msgid "Bot(s)"
+msgstr "Роботы"
+
+#: admin/Admin.php:1459
+msgid "Target Specific Bot(s)"
+msgstr "Таргетироваться на конкретных роботов"
+
+#: admin/Admin.php:1448
+msgid "Target All Bots"
+msgstr "Таргетироваться на всех роботов"
+
+#: admin/Admin.php:1419
+msgid "Anonymizer prefix "
+msgstr "Префикс анонимайзера"
+
+#: admin/Admin.php:1415
+msgid "Enable Anonymous Links"
+msgstr "Включить анонимные ссылки"
+
+#: admin/Admin.php:1394
+msgid "Set to 0 to keep logs permanently."
+msgstr "Впишите 0, чтобы хранить журналы вечно."
+
+#: admin/Admin.php:1391
+msgid "days"
+msgstr "дней"
+
+#: admin/Admin.php:1382
+msgid "Keep logs for "
+msgstr "Хранить журнал"
+
+#: admin/Admin.php:1378
+msgid "Enable Logging"
+msgstr "Включить журналирование"
+
+#: admin/Admin.php:1270
+msgid "For yandex search engine, better then noindex tag because valid."
+msgstr "Это предпочтительнее тега noindex для поисковой системы Яндекс, так как валидно."
+
+#: admin/Admin.php:1262
+msgid "Surround Masked Links with &#x3C;!--noindex--&#x3E; comments"
+msgstr "Оборачивать маскируемые ссылки в комментарии <code>&#x3C;!--noindex--&#x3E;</code>"
+
+#: admin/Admin.php:1251
+msgid "For yandex search engine."
+msgstr "Для поисковой системы Яндекс."
+
+#: admin/Admin.php:1233
+msgid "Add target=\"_blank\" to masked links."
+msgstr "Добавлять target=\"_blank\" к маскируемым ссылкам."
+
+#: admin/Admin.php:1230
+msgid "Open Masked Links in a New Window"
+msgstr "Открывать маскируемые ссылки в новом окне"
+
+#: admin/Admin.php:1220
+msgid "Add rel=\"nofollow\" to masked links."
+msgstr "Добавлять rel=\"nofollow\" к маскируемым ссылкам."
+
+#: admin/Admin.php:1217
+msgid "No Follow Masked Links"
+msgstr "No Follow для маскируемых ссылок"
+
+#: admin/Admin.php:1193
+msgid "Mask links in RSS comments"
+msgstr "Маскировать ссылки в комментариях RSS"
+
+#: admin/Admin.php:1183 admin/Admin.php:1196
+msgid "May result in invalid RSS if used with some masking options."
+msgstr "Может привести к невалидному RSS, если используется с некоторыми настройками маскировки."
+
+#: admin/Admin.php:1180
+msgid "Mask links in your RSS post content"
+msgstr "Маскировать ссылки в содержимом RSS фида"
+
+#: admin/Admin.php:1168
+msgid "Mask comment authors's homepage link"
+msgstr "Маскировать ссылки на страницы авторов"
+
+#: admin/Admin.php:1155
+msgid "Mask links in comments"
+msgstr "Маскировать ссылки в комментариях"
+
+#: admin/Admin.php:1142
+msgid "Mask links in posts and pages"
+msgstr "Маскировать ссылки в записях и страницах"
+
+#: admin/Admin.php:1128
+msgid "Mask Specific Links (select below)"
+msgstr "Маскировать определенные ссылки (выберите ниже)"
+
+#: admin/Admin.php:1119
+msgid "Recommended"
+msgstr "Рекомендуем"
+
+#: admin/Admin.php:1117
+msgid "Mask All Links"
+msgstr "Маскировать все ссылки"
+
+#: admin/Admin.php:1094
+msgid "seconds"
+msgstr "секунд"
+
+#: admin/Admin.php:1084
+msgid "Redirect after"
+msgstr "Перенаправлять после"
+
+#: admin/Admin.php:1080
+msgid "Javascript Redirect"
+msgstr "Редирект через JavaScript"
+
+#: admin/Admin.php:1042
+msgid "No Redirect"
+msgstr "Нет редиректов"
+
+#: admin/Admin.php:592 admin/Admin.php:997 admin/partials/settings.php:43
+msgid "Exclude"
+msgstr "Исключить"
+
+#: admin/Admin.php:550 admin/Admin.php:983 admin/partials/settings.php:43
+msgid "Include"
+msgstr "Включить"
+
+#: admin/Admin.php:955
+msgid "Javascript Redirect Text"
+msgstr "Текст JavaScript редиректа"
+
+#: admin/Admin.php:855
+msgid "Shorte.st"
+msgstr "Shorte.st"
+
+#: admin/Admin.php:841
+msgid "Bitly"
+msgstr "Bitly"
+
+#: admin/Admin.php:827
+msgid "Adf.ly"
+msgstr "Adf.ly"
+
+#: admin/Admin.php:794 admin/MaskTable.php:244
+msgid "Numeric"
+msgstr "Числовой"
+
+#: admin/Admin.php:780
+msgid "Base64"
+msgstr "Base64"
+
+#: admin/Admin.php:766
+msgid "AES-256"
+msgstr "AES-256"
+
+#: admin/Admin.php:751 admin/Admin.php:813
+msgid "None"
+msgstr "Никакой"
+
+#: admin/Admin.php:724
+msgid "Custom"
+msgstr "Произвольный"
+
+#: admin/Admin.php:711
+msgid "Default"
+msgstr "По-умолчанию"
+
+#: admin/Admin.php:693
+msgid "Debugging"
+msgstr "Отладка"
+
+#: admin/Admin.php:669 admin/partials/settings.php:48
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: admin/Admin.php:651
+msgid "Bot Targeting"
+msgstr "Таргетирование на роботов"
+
+#: admin/Admin.php:633
+msgid "Anonymize"
+msgstr "Анонимность"
+
+#: admin/Admin.php:614
+msgid "Logging"
+msgstr "Журналирование"
+
+#: admin/Admin.php:487 admin/partials/settings.php:28
+msgid "General"
+msgstr "Основные"
+
+#: admin/Admin.php:448
+msgid "Masking"
+msgstr "Маскировка"
+
+#: admin/Admin.php:429
+msgid "Masking Type"
+msgstr "Тип маскировки"
+
+#: admin/Admin.php:401
+msgid "Link Shortening"
+msgstr "Сокращение ссылок"
+
+#: admin/Admin.php:394
+msgid "Masking Link Encoding"
+msgstr "Кодировка маскируемых ссылок"
+
+#: admin/Admin.php:387
+msgid "Masking Link Structure"
+msgstr "Структура маскируемых ссылок"
+
+#: admin/Admin.php:239 admin/Admin.php:2292
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/Admin.php:238
+msgid "Mihdan: No External Links Settings"
+msgstr "Настройки Mihdan: No External Links"
+
+#: admin/Admin.php:257 admin/LogTable.php:60
+msgid "Logs"
+msgstr "Журналы"
+
+#: admin/Admin.php:256
+msgid "Mihdan: No External Links Logs"
+msgstr "Журналы Mihdan: No External Links"
+
+#: admin/Admin.php:248 admin/MaskTable.php:60
+msgid "Masks"
+msgstr "Маски"
+
+#: admin/Admin.php:247
+msgid "Mihdan: No External Links Masks"
+msgstr "Маски Mihdan: No External Links"
+
+#. Plugin Name of the plugin
+#: admin/Admin.php:228 admin/Admin.php:229 includes/Main.php:551
+#: includes/Main.php:560
+msgid "No External Links"
+msgstr "No External Links"

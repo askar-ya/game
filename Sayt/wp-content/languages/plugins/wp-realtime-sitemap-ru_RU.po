@@ -1,0 +1,744 @@
+# Translation of Plugins - WP Realtime Sitemap - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - WP Realtime Sitemap - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-01 01:40:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP Realtime Sitemap - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://goo.gl/jdOfL"
+msgstr "http://goo.gl/jdOfL"
+
+#. Author of the plugin/theme
+msgid "Daniel Tweedy"
+msgstr "Daniel Tweedy"
+
+#. Plugin URI of the plugin/theme
+msgid "http://goo.gl/ri9xU"
+msgstr "http://goo.gl/ri9xU"
+
+#: wp-realtime-sitemap.php:1869
+msgid "WP Realtime Sitemap was just updated... Please visit the %sPlugin Options Page%s and re-save your preferences."
+msgstr "Карта сайта WP реальном времени был только что обновили... Пожалуйста, посетите  %s Plugin параметры Страница%s с и повторно сохранить ваши предпочтения."
+
+#: wp-realtime-sitemap.php:1618 wp-realtime-sitemap.php:1651
+#: wp-realtime-sitemap.php:1689
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на %s"
+
+#: wp-realtime-sitemap.php:1544
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: wp-realtime-sitemap.php:1527
+msgid "This plugin can easily be styled by using the following ids below should you need to, if you require more flexibility than this please feel free to suggest something"
+msgstr "Внешний вид плагина может быть легко настроен с помощью следующих ID. Если вам нужно больше возможностей, пожалуйста, предлагайте."
+
+#: wp-realtime-sitemap.php:1521
+msgid "ThemeFuse"
+msgstr "ThemeFuse"
+
+#: wp-realtime-sitemap.php:1521
+msgid "If you are interested in buying an original wp theme I would recommend %s. They make some amazing wp themes, that have a cool 1 click auto install feature and excellent after care support services. Check out some of their themes!"
+msgstr "Если вы заинтересованы в покупке  оригинальной темы WP я бы рекомендовал %s. Они делают некоторые удивительные темы WP, которые  прохладно 1 клик автоматического функцию установки и отличное услуги по уходу поддержки. Проверьте некоторые из их темы!"
+
+#: wp-realtime-sitemap.php:1520
+msgid "ThemeFuse Original WP Themes"
+msgstr "ThemeFuse оригинальные темы WP"
+
+#: wp-realtime-sitemap.php:1510 wp-realtime-sitemap.php:1514
+msgid "Twitter"
+msgstr "Twitter"
+
+#: wp-realtime-sitemap.php:1510 wp-realtime-sitemap.php:1513
+msgid "Amazon WishList"
+msgstr "Amazon WishList"
+
+#: wp-realtime-sitemap.php:1510
+msgid "donate"
+msgstr "жертвовать"
+
+#: wp-realtime-sitemap.php:1510
+msgid "If you like this plugin and find it useful, help keep this plugin free and actively developed by clicking the %s button or send me a gift from my %s. Also dont forget to follow me on %s."
+msgstr "Если вам нравится этот плагин и оказаться полезным, помочь сохранить этот плагин свободными и активно развивается, нажав %s кнопки или прислать мне  подарок от моего %s. Также не забывайте следовать за мной на %s."
+
+#: wp-realtime-sitemap.php:1506
+msgid "If you have yet to rate my plugin then can you please do that also, thank you!"
+msgstr "Если вы до сих пор не оценили мой плагин то можете сделать это, спасибо!"
+
+#: wp-realtime-sitemap.php:1505
+msgid "WP Realtime Sitemap is free to use, however, it has required a great deal of time and effort to develop and if it has been useful you can help support this development by making a small donation. This will act as an incentive for me to carry on developing, providing countless hours of support, and including new features and suggestions. You get some useful software and I get to carry on making it. Everybody wins."
+msgstr "Карта сайта WP реальном времени может свободно использовать, однако, это потребовало  много времени и усилий, чтобы развивать и, если она была полезна Вам могут помочь в поддержке этого развития, внеся небольшое пожертвование. Это будет служить стимулом для меня, чтобы продолжать развиваться, предоставляя огромное количество времени поддержки, в том числе и новые возможности и предложения. Вы получаете некоторые полезные программы, и я получаю вести его приготовления. Выигрывают все."
+
+#: wp-realtime-sitemap.php:1493
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас нет разрешений для доступа к этой странице"
+
+#: wp-realtime-sitemap.php:1085
+msgid "Show Promote"
+msgstr "Показать содействие"
+
+#: wp-realtime-sitemap.php:1065
+msgid "Show Custom Post Types"
+msgstr "Показать пользовательских типов сообщения"
+
+#: wp-realtime-sitemap.php:1008 wp-realtime-sitemap.php:1040
+msgid "Only integers or -1 are accepted as valid inputs."
+msgstr "Только целые или -1, принимаются как входные данные."
+
+#: wp-realtime-sitemap.php:971
+msgid "Only True or False are accepted as valid inputs."
+msgstr "Только Правда или Ложь принимаются как входные данные."
+
+#: wp-realtime-sitemap.php:961
+msgid "Archive Type"
+msgstr "Тип архива"
+
+#: wp-realtime-sitemap.php:949 wp-realtime-sitemap.php:966
+msgid "Only integers are accepted as valid inputs."
+msgstr "Только целые числа действительными входы."
+
+#: wp-realtime-sitemap.php:944 wp-realtime-sitemap.php:954
+#: wp-realtime-sitemap.php:1050 wp-realtime-sitemap.php:1055
+#: wp-realtime-sitemap.php:1060 wp-realtime-sitemap.php:1065
+#: wp-realtime-sitemap.php:1070 wp-realtime-sitemap.php:1075
+#: wp-realtime-sitemap.php:1080 wp-realtime-sitemap.php:1085
+msgid "Only Yes/On or No/Off are accepted as valid inputs."
+msgstr "Только Да / включить или Нет / выключить принимаются как входные данные."
+
+#: wp-realtime-sitemap.php:939
+msgid "This must be comment seperated list of IDs for it to be valid, please try again."
+msgstr "Это должно быть комментарий запятыми список идентификаторов для того, чтобы быть действительным, пожалуйста, попробуйте еще раз."
+
+#: wp-realtime-sitemap.php:929 wp-realtime-sitemap.php:934
+#: wp-realtime-sitemap.php:939 wp-realtime-sitemap.php:944
+#: wp-realtime-sitemap.php:949 wp-realtime-sitemap.php:954
+msgid "Post Settings"
+msgstr "Настройки для записей"
+
+#: wp-realtime-sitemap.php:907
+msgid "This must be comment seperated for it to be valid, please try again."
+msgstr "Это должна быть отделена комментарий для того, чтобы быть действительным, пожалуйста, попробуйте еще раз."
+
+#: wp-realtime-sitemap.php:907 wp-realtime-sitemap.php:939
+msgid "Exclude"
+msgstr "Исключить"
+
+#: wp-realtime-sitemap.php:897 wp-realtime-sitemap.php:902
+#: wp-realtime-sitemap.php:912 wp-realtime-sitemap.php:917
+#: wp-realtime-sitemap.php:929 wp-realtime-sitemap.php:934
+#: wp-realtime-sitemap.php:961 wp-realtime-sitemap.php:983
+#: wp-realtime-sitemap.php:988 wp-realtime-sitemap.php:993
+#: wp-realtime-sitemap.php:998 wp-realtime-sitemap.php:1020
+#: wp-realtime-sitemap.php:1025 wp-realtime-sitemap.php:1030
+#: wp-realtime-sitemap.php:1035 wp-realtime-sitemap.php:1092
+#: wp-realtime-sitemap.php:1097 wp-realtime-sitemap.php:1102
+#: wp-realtime-sitemap.php:1107 wp-realtime-sitemap.php:1112
+#: wp-realtime-sitemap.php:1117 wp-realtime-sitemap.php:1122
+msgid "The option choosen is not valid, please try again."
+msgstr "Выбранного варианта не действует, попробуйте еще раз."
+
+#: wp-realtime-sitemap.php:890
+msgid "This must be alpha-numeric for it to be valid, please try again."
+msgstr "Это должно быть буквенно-цифровой для того, чтобы быть действительным, пожалуйста, попробуйте еще раз."
+
+#: wp-realtime-sitemap.php:814
+msgid "This places a small link under the sitemap, letting others know how your sitemap was made."
+msgstr "Это ставит ссылку в виде маленькой под  карту сайта, что позволяет другим узнать, как ваша карта была сделана."
+
+#: wp-realtime-sitemap.php:758
+msgid "0 to show all tags."
+msgstr "0, чтобы показать все тэги."
+
+#: wp-realtime-sitemap.php:726
+msgid "0 to show all."
+msgstr "0, чтобы показать все."
+
+#: wp-realtime-sitemap.php:714 wp-realtime-sitemap.php:718
+#: wp-realtime-sitemap.php:746 wp-realtime-sitemap.php:750
+msgid "This is ignored with the tag cloud setting."
+msgstr "Эта опция игнорируется, с установкой облако тегов."
+
+#: wp-realtime-sitemap.php:694
+msgid "leave blank to show all."
+msgstr "оставьте пустым, чтобы показать все."
+
+#: wp-realtime-sitemap.php:686
+msgid "-1 to show all."
+msgstr "-1, Чтобы показать все."
+
+#: wp-realtime-sitemap.php:654 wp-realtime-sitemap.php:678
+#: wp-realtime-sitemap.php:722 wp-realtime-sitemap.php:754
+msgid "Comma separated list of IDs."
+msgstr "Список разделенных запятыми идентификаторов."
+
+#: wp-realtime-sitemap.php:559 wp-realtime-sitemap.php:571
+#: wp-realtime-sitemap.php:583 wp-realtime-sitemap.php:595
+#: wp-realtime-sitemap.php:607 wp-realtime-sitemap.php:619
+#: wp-realtime-sitemap.php:631 wp-realtime-sitemap.php:1725
+msgid "Tags"
+msgstr "Теги"
+
+#: wp-realtime-sitemap.php:558 wp-realtime-sitemap.php:570
+#: wp-realtime-sitemap.php:582 wp-realtime-sitemap.php:594
+#: wp-realtime-sitemap.php:606 wp-realtime-sitemap.php:618
+#: wp-realtime-sitemap.php:630 wp-realtime-sitemap.php:1709
+msgid "Categories"
+msgstr "Категории"
+
+#: wp-realtime-sitemap.php:557 wp-realtime-sitemap.php:569
+#: wp-realtime-sitemap.php:581 wp-realtime-sitemap.php:593
+#: wp-realtime-sitemap.php:605 wp-realtime-sitemap.php:617
+#: wp-realtime-sitemap.php:629 wp-realtime-sitemap.php:1701
+msgid "Archives"
+msgstr "Архивы"
+
+#: wp-realtime-sitemap.php:556 wp-realtime-sitemap.php:568
+#: wp-realtime-sitemap.php:580 wp-realtime-sitemap.php:592
+#: wp-realtime-sitemap.php:604 wp-realtime-sitemap.php:616
+#: wp-realtime-sitemap.php:628
+msgid "Custom Post Types"
+msgstr "Пользовательские типы сообщения"
+
+#: wp-realtime-sitemap.php:555 wp-realtime-sitemap.php:567
+#: wp-realtime-sitemap.php:579 wp-realtime-sitemap.php:591
+#: wp-realtime-sitemap.php:603 wp-realtime-sitemap.php:615
+#: wp-realtime-sitemap.php:627 wp-realtime-sitemap.php:1627
+#: wp-realtime-sitemap.php:1656
+msgid "Posts"
+msgstr "Сообщения"
+
+#: wp-realtime-sitemap.php:554 wp-realtime-sitemap.php:566
+#: wp-realtime-sitemap.php:578 wp-realtime-sitemap.php:590
+#: wp-realtime-sitemap.php:602 wp-realtime-sitemap.php:614
+#: wp-realtime-sitemap.php:626 wp-realtime-sitemap.php:1580
+msgid "Pages"
+msgstr "Страницы"
+
+#: wp-realtime-sitemap.php:553 wp-realtime-sitemap.php:565
+#: wp-realtime-sitemap.php:577 wp-realtime-sitemap.php:589
+#: wp-realtime-sitemap.php:601 wp-realtime-sitemap.php:613
+#: wp-realtime-sitemap.php:625 wp-realtime-sitemap.php:1571
+msgid "Menu"
+msgstr "Меню"
+
+#: wp-realtime-sitemap.php:505 wp-realtime-sitemap.php:512
+#: wp-realtime-sitemap.php:526 wp-realtime-sitemap.php:533
+#: wp-realtime-sitemap.php:547
+msgid "No/Off"
+msgstr "Нет/Выключено"
+
+#: wp-realtime-sitemap.php:504 wp-realtime-sitemap.php:511
+#: wp-realtime-sitemap.php:525 wp-realtime-sitemap.php:532
+#: wp-realtime-sitemap.php:546
+msgid "Yes/On (Default)"
+msgstr "Да/Включено(По умолчанию)"
+
+#: wp-realtime-sitemap.php:473
+msgid "Sort descending"
+msgstr "Сортировать по убыванию"
+
+#: wp-realtime-sitemap.php:472
+msgid "Sort ascending (Default)"
+msgstr "Сортировка по возрастанию (по умолчанию)"
+
+#: wp-realtime-sitemap.php:449
+msgid "Show only top level Categories"
+msgstr "Показать только верхний уровень категорий"
+
+#: wp-realtime-sitemap.php:448
+msgid "All Categories displayed in flat (no indent) form"
+msgstr "Все категории отображаются в горизонтальной ( без отступа ) форме"
+
+#: wp-realtime-sitemap.php:447
+msgid "All Categories and child Categories (Default)"
+msgstr "Все категории и ребенка Категории (по умолчанию)"
+
+#: wp-realtime-sitemap.php:430 wp-realtime-sitemap.php:480
+msgid "False (Default)"
+msgstr "Неверно ( по умолчанию)"
+
+#: wp-realtime-sitemap.php:429 wp-realtime-sitemap.php:479
+msgid "True"
+msgstr "Правда"
+
+#: wp-realtime-sitemap.php:416 wp-realtime-sitemap.php:466
+msgid "Term Group"
+msgstr "Срок группу"
+
+#: wp-realtime-sitemap.php:415 wp-realtime-sitemap.php:465
+msgid "Count"
+msgstr "Показывать количество"
+
+#: wp-realtime-sitemap.php:414 wp-realtime-sitemap.php:464
+msgid "Slug"
+msgstr "Шпон"
+
+#: wp-realtime-sitemap.php:413 wp-realtime-sitemap.php:463
+msgid "Name (Default)"
+msgstr "Имя (по умолчанию)"
+
+#: wp-realtime-sitemap.php:412 wp-realtime-sitemap.php:462
+msgid "ID"
+msgstr "ID"
+
+#: wp-realtime-sitemap.php:399 wp-realtime-sitemap.php:437
+#: wp-realtime-sitemap.php:487
+msgid "False"
+msgstr "Ложный"
+
+#: wp-realtime-sitemap.php:398 wp-realtime-sitemap.php:436
+#: wp-realtime-sitemap.php:486
+msgid "True (Default)"
+msgstr "Верно ( по умолчанию)"
+
+#: wp-realtime-sitemap.php:388
+msgid "Weekly"
+msgstr "Еденедельно"
+
+#: wp-realtime-sitemap.php:387
+msgid "Daily"
+msgstr "Ежедневно"
+
+#: wp-realtime-sitemap.php:386
+msgid "Monthly (Default)"
+msgstr "Ежемесячно ( по умолчанию)"
+
+#: wp-realtime-sitemap.php:385
+msgid "Yearly"
+msgstr "Годовой"
+
+#: wp-realtime-sitemap.php:368 wp-realtime-sitemap.php:379
+#: wp-realtime-sitemap.php:406 wp-realtime-sitemap.php:456
+#: wp-realtime-sitemap.php:498 wp-realtime-sitemap.php:519
+#: wp-realtime-sitemap.php:540
+msgid "No/Off (Default)"
+msgstr "Нет/Выключено(По умолчанию)"
+
+#: wp-realtime-sitemap.php:367 wp-realtime-sitemap.php:378
+#: wp-realtime-sitemap.php:405 wp-realtime-sitemap.php:455
+#: wp-realtime-sitemap.php:497 wp-realtime-sitemap.php:518
+#: wp-realtime-sitemap.php:539
+msgid "Yes/On"
+msgstr "Да/Включено"
+
+#: wp-realtime-sitemap.php:354
+msgid "Sort by type"
+msgstr "Сортировать по типу"
+
+#: wp-realtime-sitemap.php:353
+msgid "Sort by title"
+msgstr "Сортировка по названию"
+
+#: wp-realtime-sitemap.php:352
+msgid "Sort by status"
+msgstr "Сортировать по статусу"
+
+#: wp-realtime-sitemap.php:351
+msgid "Randomly sort results"
+msgstr "Случайно результаты сортировки"
+
+#: wp-realtime-sitemap.php:350
+msgid "Sort by password"
+msgstr "Сортировать по паролю"
+
+#: wp-realtime-sitemap.php:349
+msgid "Sort by parent ID"
+msgstr "Сортировать по главному ID"
+
+#: wp-realtime-sitemap.php:348
+msgid "Sort by stub"
+msgstr "Сортировать по заглушке"
+
+#: wp-realtime-sitemap.php:347
+msgid "Sort by last modified date"
+msgstr "Сортировать по дате последнего изменения"
+
+#: wp-realtime-sitemap.php:346
+msgid "Sort by numeric Post ID"
+msgstr "Сортировать по цифровой идентификатор сообщения"
+
+#: wp-realtime-sitemap.php:345
+msgid "Sort by creation date"
+msgstr "Упорядочить по дате создания"
+
+#: wp-realtime-sitemap.php:344
+msgid "Sort by content"
+msgstr "Сортировать по содержанию"
+
+#: wp-realtime-sitemap.php:343
+msgid "Sort by the numeric category IDs"
+msgstr "Сортировать по  числовые идентификаторы категории"
+
+#: wp-realtime-sitemap.php:342
+msgid "Sort by the numeric author IDs"
+msgstr "Сортировать по  числовые идентификаторы автора"
+
+#: wp-realtime-sitemap.php:341
+msgid "Sort by post date (Default)"
+msgstr "Сортировать по дате публикации (по умолчанию)"
+
+#: wp-realtime-sitemap.php:331
+msgid "Display the date first created"
+msgstr "Показать  дату первого создания"
+
+#: wp-realtime-sitemap.php:330
+msgid "Display the date last modified"
+msgstr "Отображение  даты последнего изменения"
+
+#: wp-realtime-sitemap.php:329
+msgid "Display no date (Default)"
+msgstr "Показывать без даты (по умолчанию)"
+
+#: wp-realtime-sitemap.php:323
+msgid "Displays top-level Pages only"
+msgstr "Отображение страниц верхнего уровня только"
+
+#: wp-realtime-sitemap.php:322
+msgid "Displays pages at any depth and arranges them in a single, flat list"
+msgstr "Отображение страниц на любой глубине и организует их в единую, плоский список"
+
+#: wp-realtime-sitemap.php:321
+msgid "Displays pages at any depth and arranges them hierarchically in nested lists (Default)"
+msgstr "Сортировать от большего к lowestDisplays страниц на любой глубине и располагает их в иерархически вложенных списков (по умолчанию)"
+
+#: wp-realtime-sitemap.php:315 wp-realtime-sitemap.php:361
+#: wp-realtime-sitemap.php:423
+msgid "Sort from highest to lowest"
+msgstr "Сортировать от большего к меньшему"
+
+#: wp-realtime-sitemap.php:314 wp-realtime-sitemap.php:360
+#: wp-realtime-sitemap.php:422
+msgid "Sort from lowest to highest (Default)"
+msgstr "Сортировать от низшего к высшему (по умолчанию)"
+
+#: wp-realtime-sitemap.php:308
+msgid "Alphabetically (by post slug)"
+msgstr "Короткому имени записи"
+
+#: wp-realtime-sitemap.php:307
+msgid "Page author"
+msgstr "Автору страницы"
+
+#: wp-realtime-sitemap.php:306
+msgid "Numeric Page ID"
+msgstr "Номеру страницы"
+
+#: wp-realtime-sitemap.php:305
+msgid "Time last modified"
+msgstr "Времени последнего изменения"
+
+#: wp-realtime-sitemap.php:304
+msgid "Creation time"
+msgstr "Времени создания"
+
+#: wp-realtime-sitemap.php:303
+msgid "Page order"
+msgstr "Заданному порядку страниц"
+
+#: wp-realtime-sitemap.php:302
+msgid "Alphabetically (by title) (Default)"
+msgstr "Заголовку(По  умолчанию)"
+
+#: wp-realtime-sitemap.php:289
+msgid "Some common sense is required when choosing the order below, it is possible to for example choose Pages, for 1st, 2nd, 3rd and so on, so this will then option the pages on the sitemap 3 times.  Please make an effort to choose each possible option only once."
+msgstr "Некоторые здравый смысл требует, выбирая  порядок ниже, можно выбрать, например, страницы, на первой, второй, третий и так далее, так что это будет вариант  страницы на  карту сайта в 3 раза. Пожалуйста, сделайте  усилие, чтобы выбрать каждый из возможных вариантов только один раз."
+
+#: wp-realtime-sitemap.php:285
+msgid "Choose what you would like to be displayed on your site map."
+msgstr "Выберите то, что должно выводиться в карте вашего сайта."
+
+#: wp-realtime-sitemap.php:281
+msgid "This section is optional, you can change the names of the sections if you wish from the defaults.  Defaults are used when the below options are left blank/empty."
+msgstr "Этот раздел не является обязательным, вы можете изменить  название разделов, если вы хотите от  значения по умолчанию. По умолчанию используются, если  ниже варианты остаются пустыми / пуст."
+
+#: wp-realtime-sitemap.php:277
+msgid "Limit is used to apply a limit as to how many tags should be shown on the sitemap, useful for if you have a very large blog and as such a large number of tags, use 0 to show all tags and not apply a limit."
+msgstr "Предельная используется для применения  предела, сколько теги должны быть показаны на  карту сайта, полезные для если у вас есть  очень большой блог, и как такое большое количество тегов, используйте 0, чтобы показать все теги и не распространяется  ограничение."
+
+#: wp-realtime-sitemap.php:271
+msgid "Limit is used to apply a limit as to how many categories should be shown on the sitemap, useful for if you have a very large blog and as such a large number of categories, use 0 to show all categories and not apply a limit."
+msgstr "Предельная используется для применения  предела, как много категорий должны быть показаны на  карту сайта, полезные для если у вас есть  очень большой блог, и как такое большое количество категорий, используйте 0, чтобы показать все категории и не применяются  ограничения."
+
+#: wp-realtime-sitemap.php:269 wp-realtime-sitemap.php:275
+msgid "All options apply to the tag cloud, unless otherwise explicitly stated."
+msgstr "Все параметры применяются для  облака тегов, если иное не оговорено."
+
+#: wp-realtime-sitemap.php:265
+msgid "Limit is used to apply a limit as to how many archives should be shown on the sitemap, useful for if you have a very large blog and as such a large number of archives, leave blank to show all archives and not apply a limit."
+msgstr "Предельная используется для применения  предела, как многие архивы должны быть показаны на  карту сайта, полезные для если у вас есть  очень большой блог, и как такое большое количество архивов, оставьте пустым, чтобы показать все архивы и не применяются  ограничения."
+
+#: wp-realtime-sitemap.php:261
+msgid "Limit is used to apply a limit as to how many posts should be shown on the sitemap, useful for if you have a very large blog and as such a large number of posts, use -1 to show all posts and not apply a limit."
+msgstr "\"Количество выводимых записей\" используется для указания количества выводимых записей. Полезно, если у вас большой блог с большим числом записей. Чтобы отобразить все записи, укажите \"-1\"."
+
+#: wp-realtime-sitemap.php:260
+msgid "Display Date is to show the date that the post itself was created/published."
+msgstr "Отображение даты, показывает что дата  сообщения была создана / опубликована."
+
+#: wp-realtime-sitemap.php:255 wp-realtime-sitemap.php:259
+#: wp-realtime-sitemap.php:270 wp-realtime-sitemap.php:276
+msgid "Exclude IDs must be either left blank, or be a comma seperated list of IDs."
+msgstr "Исключить идентификаторы должны быть либо пустыми, либо  разделенные запятыми для каждого списка идентификаторов."
+
+#: wp-realtime-sitemap.php:251
+msgid "Menu ID should contain the ID of the menu you wish to show on the sitemap.  If left blank will show the last menu created in Appearance -> Menus."
+msgstr "Меню ID должен содержать  идентификатор  меню который вы хотите показать на  карте сайта. Если оставить пустым, покажет последнюю меню, созданное в Внешний вид - > Меню."
+
+#: wp-realtime-sitemap.php:247 wp-realtime-sitemap.php:1122
+msgid "7th Order"
+msgstr "7-го порядка"
+
+#: wp-realtime-sitemap.php:246 wp-realtime-sitemap.php:1117
+msgid "6th Order"
+msgstr "6-го порядка"
+
+#: wp-realtime-sitemap.php:245 wp-realtime-sitemap.php:1112
+msgid "5th Order"
+msgstr "5-го порядка"
+
+#: wp-realtime-sitemap.php:244 wp-realtime-sitemap.php:1107
+msgid "4th Order"
+msgstr "4-го порядка"
+
+#: wp-realtime-sitemap.php:243 wp-realtime-sitemap.php:1102
+msgid "3rd Order"
+msgstr "3-го порядка"
+
+#: wp-realtime-sitemap.php:242 wp-realtime-sitemap.php:1097
+msgid "2nd Order"
+msgstr "2-го порядка"
+
+#: wp-realtime-sitemap.php:241 wp-realtime-sitemap.php:1092
+msgid "1st Order"
+msgstr "1-го порядка"
+
+#: wp-realtime-sitemap.php:240 wp-realtime-sitemap.php:1092
+#: wp-realtime-sitemap.php:1097 wp-realtime-sitemap.php:1102
+#: wp-realtime-sitemap.php:1107 wp-realtime-sitemap.php:1112
+#: wp-realtime-sitemap.php:1117 wp-realtime-sitemap.php:1122
+msgid "Order Settings"
+msgstr "Определить настройки"
+
+#: wp-realtime-sitemap.php:238
+msgid "Help Promote"
+msgstr "Помощь Содействие"
+
+#: wp-realtime-sitemap.php:237 wp-realtime-sitemap.php:1080
+msgid "Show Tags"
+msgstr "Показать метки"
+
+#: wp-realtime-sitemap.php:236 wp-realtime-sitemap.php:1075
+msgid "Show Categories"
+msgstr "Показать рубрики"
+
+#: wp-realtime-sitemap.php:235 wp-realtime-sitemap.php:1070
+msgid "Show Archives"
+msgstr "Показать Архив"
+
+#: wp-realtime-sitemap.php:234
+msgid "Show ALL Custom Post Types"
+msgstr "Показать все пользовательские типы сообщения"
+
+#: wp-realtime-sitemap.php:233 wp-realtime-sitemap.php:1060
+msgid "Show Posts"
+msgstr "Показать записи"
+
+#: wp-realtime-sitemap.php:232 wp-realtime-sitemap.php:1055
+msgid "Show Pages"
+msgstr "Показать страницы"
+
+#: wp-realtime-sitemap.php:231 wp-realtime-sitemap.php:1050
+msgid "Show Menu"
+msgstr "Показать меню"
+
+#: wp-realtime-sitemap.php:230 wp-realtime-sitemap.php:1050
+#: wp-realtime-sitemap.php:1055 wp-realtime-sitemap.php:1060
+#: wp-realtime-sitemap.php:1065 wp-realtime-sitemap.php:1070
+#: wp-realtime-sitemap.php:1075 wp-realtime-sitemap.php:1080
+#: wp-realtime-sitemap.php:1085
+msgid "Display Settings"
+msgstr "Настройки отображения"
+
+#: wp-realtime-sitemap.php:228
+msgid "Tags Header"
+msgstr "Заголовок тегов"
+
+#: wp-realtime-sitemap.php:227
+msgid "Categories Header"
+msgstr "Заголовок категорий"
+
+#: wp-realtime-sitemap.php:226
+msgid "Archives Header"
+msgstr "Заголовок архивов"
+
+#: wp-realtime-sitemap.php:225
+msgid "Posts Header"
+msgstr "Заголовок сообщений"
+
+#: wp-realtime-sitemap.php:224
+msgid "Pages Header"
+msgstr "Заголовок страниц"
+
+#: wp-realtime-sitemap.php:223
+msgid "Menu Header"
+msgstr "Заголовок меню"
+
+#: wp-realtime-sitemap.php:222
+msgid "Header Settings"
+msgstr "Настройки заголовка"
+
+#: wp-realtime-sitemap.php:213 wp-realtime-sitemap.php:1020
+#: wp-realtime-sitemap.php:1025 wp-realtime-sitemap.php:1030
+#: wp-realtime-sitemap.php:1035 wp-realtime-sitemap.php:1040
+msgid "Tag Settings"
+msgstr "Настройки тега"
+
+#: wp-realtime-sitemap.php:208 wp-realtime-sitemap.php:218
+#: wp-realtime-sitemap.php:998
+msgid "Hide Empty"
+msgstr "Скрыть пустые"
+
+#: wp-realtime-sitemap.php:204 wp-realtime-sitemap.php:214
+msgid "Show as a Tag Cloud"
+msgstr "Показать как  облако меток"
+
+#: wp-realtime-sitemap.php:203 wp-realtime-sitemap.php:983
+#: wp-realtime-sitemap.php:988 wp-realtime-sitemap.php:993
+#: wp-realtime-sitemap.php:998 wp-realtime-sitemap.php:1008
+msgid "Category Settings"
+msgstr "Настройки категории"
+
+#: wp-realtime-sitemap.php:201 wp-realtime-sitemap.php:207
+#: wp-realtime-sitemap.php:217 wp-realtime-sitemap.php:971
+#: wp-realtime-sitemap.php:993 wp-realtime-sitemap.php:1030
+msgid "Post Count"
+msgstr "Количество сообщений"
+
+#: wp-realtime-sitemap.php:199
+msgid "Type"
+msgstr "Тип"
+
+#: wp-realtime-sitemap.php:198 wp-realtime-sitemap.php:961
+#: wp-realtime-sitemap.php:966 wp-realtime-sitemap.php:971
+msgid "Archive Settings"
+msgstr "Настройка архивирования"
+
+#: wp-realtime-sitemap.php:196 wp-realtime-sitemap.php:954
+msgid "Display Categories"
+msgstr "Показать Категории"
+
+#: wp-realtime-sitemap.php:195 wp-realtime-sitemap.php:200
+#: wp-realtime-sitemap.php:210 wp-realtime-sitemap.php:220
+#: wp-realtime-sitemap.php:949 wp-realtime-sitemap.php:966
+#: wp-realtime-sitemap.php:1008 wp-realtime-sitemap.php:1040
+msgid "Limit"
+msgstr "Количество выводимых записей"
+
+#: wp-realtime-sitemap.php:190
+msgid "Post & Custom Post Type Settings"
+msgstr "Сообщение & Пользовательские настройки типа сообщения"
+
+#: wp-realtime-sitemap.php:186 wp-realtime-sitemap.php:194
+#: wp-realtime-sitemap.php:917 wp-realtime-sitemap.php:944
+msgid "Display Date"
+msgstr "Отображение даты"
+
+#: wp-realtime-sitemap.php:185 wp-realtime-sitemap.php:211
+#: wp-realtime-sitemap.php:912
+msgid "Hierarchy Depth"
+msgstr "Глубина иерархии"
+
+#: wp-realtime-sitemap.php:184 wp-realtime-sitemap.php:193
+#: wp-realtime-sitemap.php:209 wp-realtime-sitemap.php:219
+msgid "Exclude IDs"
+msgstr "Исключить идентификаторы"
+
+#: wp-realtime-sitemap.php:183 wp-realtime-sitemap.php:192
+#: wp-realtime-sitemap.php:206 wp-realtime-sitemap.php:216
+#: wp-realtime-sitemap.php:902 wp-realtime-sitemap.php:934
+#: wp-realtime-sitemap.php:988 wp-realtime-sitemap.php:1025
+msgid "Order"
+msgstr "Сортировать"
+
+#: wp-realtime-sitemap.php:182 wp-realtime-sitemap.php:191
+#: wp-realtime-sitemap.php:205 wp-realtime-sitemap.php:215
+#: wp-realtime-sitemap.php:897 wp-realtime-sitemap.php:929
+#: wp-realtime-sitemap.php:983 wp-realtime-sitemap.php:1020
+#: wp-realtime-sitemap.php:1035
+msgid "Order By"
+msgstr "Сортировать по"
+
+#: wp-realtime-sitemap.php:181 wp-realtime-sitemap.php:897
+#: wp-realtime-sitemap.php:902 wp-realtime-sitemap.php:907
+#: wp-realtime-sitemap.php:912 wp-realtime-sitemap.php:917
+msgid "Page Settings"
+msgstr "Параметры страницы"
+
+#: wp-realtime-sitemap.php:179 wp-realtime-sitemap.php:890
+msgid "Menu ID"
+msgstr "Меню ID"
+
+#: wp-realtime-sitemap.php:178 wp-realtime-sitemap.php:890
+msgid "Menu Settings"
+msgstr "Меню Настройки"
+
+#. #-#-#-#-#  tmp-wp-realtime-sitemap.pot (WP Realtime Sitemap 1.5.4) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wp-realtime-sitemap.php:161 wp-realtime-sitemap.php:238
+msgid "WP Realtime Sitemap"
+msgstr "WP Realtime Sitemap"
+
+#: wp-realtime-sitemap.php:161 wp-realtime-sitemap.php:1503
+msgid "WP Realtime Sitemap Options"
+msgstr "Настройки WP Realtime Sitemap"
+
+#: wp-realtime-sitemap.php:147
+msgid "Translations"
+msgstr "Переводы"
+
+#: wp-realtime-sitemap.php:118
+msgid "Please read the plugin information and FAQ, before asking a question."
+msgstr "Пожалуйста, прочитайте информацию о плагине и FAQ, прежде чем задать вопрос"
+
+#: wp-realtime-sitemap.php:116
+msgid "Home Page"
+msgstr "Домашняя страница"
+
+#: wp-realtime-sitemap.php:111
+msgid "WP Realtime Sitemap Help"
+msgstr "Помощь по WP Realtime Sitemap"
+
+#: wp-realtime-sitemap.php:103 wp-realtime-sitemap.php:145
+msgid "Settings"
+msgstr "Настройки"
+
+#: wp-realtime-sitemap.php:94 wp-realtime-sitemap.php:117
+msgid "Contact Me"
+msgstr "Свяжитесь со мной"
+
+#: wp-realtime-sitemap.php:92 wp-realtime-sitemap.php:112
+msgid "Amazon Wishlist"
+msgstr "Список пожеланий на Амазоне"
+
+#: wp-realtime-sitemap.php:90 wp-realtime-sitemap.php:113
+#: wp-realtime-sitemap.php:1509 wp-realtime-sitemap.php:1510
+#: wp-realtime-sitemap.php:1512
+msgid "Donate with PayPal"
+msgstr "Помочь проекту"
+
+#: wp-realtime-sitemap.php:88 wp-realtime-sitemap.php:114
+#: wp-realtime-sitemap.php:146
+msgid "Support"
+msgstr "Поддержка"
+
+#: wp-realtime-sitemap.php:86 wp-realtime-sitemap.php:115
+msgid "FAQ"
+msgstr "FAQ"

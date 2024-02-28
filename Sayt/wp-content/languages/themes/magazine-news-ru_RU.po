@@ -1,0 +1,980 @@
+# Translation of Themes - Magazine News in Russian
+# This file is distributed under the same license as the Themes - Magazine News package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-05 02:35:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Magazine News\n"
+
+#. Description of the plugin/theme
+msgid "Magazine News is a modern responsive WordPress theme. The theme has clean and elegant design. The theme is SEO friendly, Cross browser compatible, fully translation ready and is compatible with WooCommerce and all other major plugins. The Magazine News theme is excellent for a news, newspaper, magazine, publishing or other editorial websites. Amazing scroll animations and free Kirki options - Custom CSS, Sidebar Aniamtions, All Google Fonts, Disable All Comments, Mobile call now. To learn more about the theme please go to the theme uri and read the documentation. https://seosthemes.com/magazine-news/"
+msgstr "Magazine News - это современная отзывчивая тема WordPress. Тема имеет чистый и элегантный дизайн. Тема является SEO дружественной, Кросс-браузер совместимой, полностью готовой к переводу и совместимой с WooCommerce и всеми другими крупными плагинами. Тема «Magazine News» отлично подходит для новостей, газет, журналов, публикаций и других редакционных сайтов. Удивительные анимации прокрутки и бесплатные варианты Kirki - Custom CSS, Sidebar Aniamtions, All Google Fonts, Disable All Comments, Mobile call now. Чтобы узнать больше о теме, перейдите по ссылке и прочтите документацию. https://seosthemes.com/magazine-news/"
+
+#. Theme Name of the plugin/theme
+msgid "Magazine News"
+msgstr "Magazine News"
+
+#: inc/customize/customize-kirki.php:360
+msgid "Read More Length"
+msgstr "Продолжить чтение"
+
+#: inc/customize/customize-kirki.php:348
+msgid "Read More"
+msgstr "Читать далее"
+
+#: inc/customize/customize-kirki.php:346
+msgid "Read More Text"
+msgstr "Текст кнопки Читать далее"
+
+#: inc/customize/customize-kirki.php:329
+msgid "Activate Read more Button"
+msgstr "Активировать кнопку Читать далее"
+
+#: inc/customize/customize-kirki.php:315
+msgid "Read More Button"
+msgstr "Кнопка Читать далее"
+
+#: inc/kirki/includes/class-kirki-l10n.php:213
+msgid "Hex Value"
+msgstr "Шестнадцатиричное значение"
+
+#: inc/kirki/includes/class-kirki-l10n.php:212
+msgid "Switch Editor"
+msgstr "Переключить редактор"
+
+#: inc/kirki/includes/class-kirki-l10n.php:211
+msgid "Close Editor"
+msgstr "Закрыть редактор"
+
+#: inc/kirki/includes/class-kirki-l10n.php:210
+msgid "Open Editor"
+msgstr "Открыть редактор"
+
+#: inc/kirki/includes/class-kirki-l10n.php:209
+msgid "Select a Page"
+msgstr "Выбор страницы"
+
+#: inc/kirki/includes/class-kirki-l10n.php:208
+msgid "Initial"
+msgstr "Инициал"
+
+#: inc/kirki/includes/class-kirki-l10n.php:207
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: inc/kirki/includes/class-kirki-l10n.php:206
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: inc/kirki/includes/class-kirki-l10n.php:205
+msgid "Capitalize"
+msgstr "Заглавная"
+
+#: inc/kirki/includes/class-kirki-l10n.php:203
+msgid "Text Transform"
+msgstr "Трансформировать текст"
+
+#: inc/kirki/includes/class-kirki-l10n.php:202
+msgid "Text Align"
+msgstr "Выровнять текст"
+
+#: inc/kirki/includes/class-kirki-l10n.php:201
+msgid "%s Reset"
+msgstr "%s Сброс"
+
+#: inc/kirki/includes/class-kirki-l10n.php:200
+#: inc/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr "Назад"
+
+#: inc/kirki/includes/class-kirki-l10n.php:199
+#: inc/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr "Нажмите return или enter чтобы открыть этот раздел"
+
+#: inc/kirki/includes/class-kirki-l10n.php:198
+msgid "Limit: %s rows"
+msgstr "Лимит: %s рядов"
+
+#: inc/kirki/includes/class-kirki-l10n.php:197
+msgid "row"
+msgstr "ряд"
+
+#: inc/kirki/includes/class-kirki-l10n.php:196
+msgid "Add new"
+msgstr "Добавить новый"
+
+#: inc/kirki/includes/class-kirki-l10n.php:195
+msgid "Invalid Value"
+msgstr "Неверное значение"
+
+#: inc/kirki/includes/class-kirki-l10n.php:194
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ультра жирный 900 курсив"
+
+#: inc/kirki/includes/class-kirki-l10n.php:193
+msgid "Ultra-Bold 900"
+msgstr "Ультра жирный 900"
+
+#: inc/kirki/includes/class-kirki-l10n.php:192
+msgid "Extra-Bold 800 Italic"
+msgstr "Очень жирный 800 курсив"
+
+#: inc/kirki/includes/class-kirki-l10n.php:191
+msgid "Extra-Bold 800"
+msgstr "Очень жирный 800"
+
+#: inc/kirki/includes/class-kirki-l10n.php:190
+msgid "Bold 700 Italic"
+msgstr "Жирный 700 курсив"
+
+#: inc/kirki/includes/class-kirki-l10n.php:189
+msgid "Bold 700"
+msgstr "Жирный 700"
+
+#: inc/kirki/includes/class-kirki-l10n.php:188
+msgid "Semi-Bold 600 Italic"
+msgstr "Полужирный 600 курсив"
+
+#: inc/kirki/includes/class-kirki-l10n.php:187
+msgid "Semi-Bold 600"
+msgstr "Полужирный 600"
+
+#: inc/kirki/includes/class-kirki-l10n.php:186
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:185
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/kirki/includes/class-kirki-l10n.php:184
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:183
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/kirki/includes/class-kirki-l10n.php:182
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:181
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/kirki/includes/class-kirki-l10n.php:180
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:179
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/kirki/includes/class-kirki-l10n.php:178
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:177
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/kirki/includes/class-kirki-l10n.php:176
+msgid "Spacing"
+msgstr "Интервал"
+
+#: inc/kirki/includes/class-kirki-l10n.php:175
+msgid "Height"
+msgstr "Высота"
+
+#: inc/kirki/includes/class-kirki-l10n.php:174
+msgid "Size"
+msgstr "Размер"
+
+#: inc/kirki/includes/class-kirki-l10n.php:173
+msgid "Subset"
+msgstr "Подмножество"
+
+#: inc/kirki/includes/class-kirki-l10n.php:172
+msgid "Variant"
+msgstr "Вариант"
+
+#: inc/kirki/includes/class-kirki-l10n.php:171
+msgid "Select a font-family"
+msgstr "Выбрать семейство шрифтов"
+
+#: inc/kirki/includes/class-kirki-l10n.php:170
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/kirki/includes/class-kirki-l10n.php:169
+msgid "No File Selected"
+msgstr "Файл не выбран"
+
+#: inc/kirki/includes/class-kirki-l10n.php:168
+msgid "Change File"
+msgstr "Выбрать файл"
+
+#: inc/kirki/includes/class-kirki-l10n.php:167
+msgid "Add File"
+msgstr "Добавить файл"
+
+#: inc/kirki/includes/class-kirki-l10n.php:166
+msgid "No Image Selected"
+msgstr "Картинка не выбрана"
+
+#: inc/kirki/includes/class-kirki-l10n.php:165
+msgid "Change Image"
+msgstr "Выбрать картинку"
+
+#: inc/kirki/includes/class-kirki-l10n.php:164
+msgid "Add Image"
+msgstr "Добавить картинку"
+
+#: inc/kirki/includes/class-kirki-l10n.php:163
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/kirki/includes/class-kirki-l10n.php:162
+msgid "Justify"
+msgstr "Выровнять"
+
+#: inc/kirki/includes/class-kirki-l10n.php:161
+msgid "Center"
+msgstr "Центр"
+
+#: inc/kirki/includes/class-kirki-l10n.php:160
+msgid "Right"
+msgstr "Справа"
+
+#: inc/kirki/includes/class-kirki-l10n.php:159
+msgid "Left"
+msgstr "Слева"
+
+#: inc/kirki/includes/class-kirki-l10n.php:158
+msgid "Bottom"
+msgstr "Внизу"
+
+#: inc/kirki/includes/class-kirki-l10n.php:157
+msgid "Top"
+msgstr "Сверху"
+
+#: inc/kirki/includes/class-kirki-l10n.php:156
+msgid "Letter Spacing"
+msgstr "Межбуквенное расстояние"
+
+#: inc/kirki/includes/class-kirki-l10n.php:155
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: inc/kirki/includes/class-kirki-l10n.php:154
+msgid "Line Height"
+msgstr "Высота линии"
+
+#: inc/kirki/includes/class-kirki-l10n.php:153
+msgid "Font Weight"
+msgstr "Вес шрифта"
+
+#: inc/kirki/includes/class-kirki-l10n.php:152
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/kirki/includes/class-kirki-l10n.php:151
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: inc/kirki/includes/class-kirki-l10n.php:150
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: inc/kirki/includes/class-kirki-l10n.php:149
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: inc/kirki/includes/class-kirki-l10n.php:148
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: inc/kirki/includes/class-kirki-l10n.php:147
+msgid "Thai"
+msgstr "Тайский"
+
+#: inc/kirki/includes/class-kirki-l10n.php:146
+msgid "Telugu"
+msgstr "Телугу"
+
+#: inc/kirki/includes/class-kirki-l10n.php:145
+msgid "Tamil"
+msgstr "Тамил"
+
+#: inc/kirki/includes/class-kirki-l10n.php:144
+msgid "Gujarati"
+msgstr "Гуджарати"
+
+#: inc/kirki/includes/class-kirki-l10n.php:143
+msgid "Bengali"
+msgstr "Бенгальский"
+
+#: inc/kirki/includes/class-kirki-l10n.php:142
+msgid "Arabic"
+msgstr "Арабский"
+
+#: inc/kirki/includes/class-kirki-l10n.php:141
+msgid "Hebrew"
+msgstr "Иврит"
+
+#: inc/kirki/includes/class-kirki-l10n.php:140
+msgid "Vietnamese"
+msgstr "Вьетнамский"
+
+#: inc/kirki/includes/class-kirki-l10n.php:139
+msgid "Latin Extended"
+msgstr "Расширенная латиница"
+
+#: inc/kirki/includes/class-kirki-l10n.php:138
+msgid "Latin"
+msgstr "Латиница"
+
+#: inc/kirki/includes/class-kirki-l10n.php:137
+msgid "Khmer"
+msgstr "Кхмер"
+
+#: inc/kirki/includes/class-kirki-l10n.php:136
+msgid "Greek Extended"
+msgstr "Расширенный греческий"
+
+#: inc/kirki/includes/class-kirki-l10n.php:135
+msgid "Greek"
+msgstr "Греческий"
+
+#: inc/kirki/includes/class-kirki-l10n.php:134
+msgid "Devanagari"
+msgstr "Девангари"
+
+#: inc/kirki/includes/class-kirki-l10n.php:133
+msgid "Cyrillic Extended"
+msgstr "Расширенная кириллица"
+
+#: inc/kirki/includes/class-kirki-l10n.php:132
+msgid "Cyrillic"
+msgstr "Кириллица"
+
+#: inc/kirki/includes/class-kirki-l10n.php:131
+msgid "All"
+msgstr "Все"
+
+#: inc/kirki/includes/class-kirki-l10n.php:130
+msgid "OFF"
+msgstr "ВЫКЛ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:129
+msgid "ON"
+msgstr "ВКЛ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:128
+msgid "Background Opacity"
+msgstr "Непрозрачный фон"
+
+#: inc/kirki/includes/class-kirki-l10n.php:127
+msgid "Background Position"
+msgstr "Позиция фона"
+
+#: inc/kirki/includes/class-kirki-l10n.php:126
+msgid "Center Bottom"
+msgstr "В центре снизу"
+
+#: inc/kirki/includes/class-kirki-l10n.php:125
+msgid "Center Center"
+msgstr "В центре"
+
+#: inc/kirki/includes/class-kirki-l10n.php:124
+msgid "Center Top"
+msgstr "В центре сверху"
+
+#: inc/kirki/includes/class-kirki-l10n.php:123
+msgid "Right Bottom"
+msgstr "Справа снизу"
+
+#: inc/kirki/includes/class-kirki-l10n.php:122
+msgid "Right Center"
+msgstr "Справа в центре"
+
+#: inc/kirki/includes/class-kirki-l10n.php:121
+msgid "Right Top"
+msgstr "Справа сверху"
+
+#: inc/kirki/includes/class-kirki-l10n.php:120
+msgid "Left Bottom"
+msgstr "Слева снизу"
+
+#: inc/kirki/includes/class-kirki-l10n.php:119
+msgid "Left Center"
+msgstr "Слева в центре"
+
+#: inc/kirki/includes/class-kirki-l10n.php:118
+msgid "Left Top"
+msgstr "Слева сверху"
+
+#: inc/kirki/includes/class-kirki-l10n.php:117
+msgid "Background Attachment"
+msgstr "Вставка фона"
+
+#: inc/kirki/includes/class-kirki-l10n.php:116
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: inc/kirki/includes/class-kirki-l10n.php:115
+msgid "Fixed"
+msgstr "Исправлено"
+
+#: inc/kirki/includes/class-kirki-l10n.php:114
+msgid "Background Size"
+msgstr "Размер фона"
+
+#: inc/kirki/includes/class-kirki-l10n.php:113
+msgid "Contain"
+msgstr "Содержание"
+
+#: inc/kirki/includes/class-kirki-l10n.php:112
+msgid "Cover"
+msgstr "Обложка"
+
+#: inc/kirki/includes/class-kirki-l10n.php:111
+msgid "Background Repeat"
+msgstr "Повторять фон"
+
+#: inc/kirki/includes/class-kirki-l10n.php:110
+msgid "Inherit"
+msgstr "Наследовать"
+
+#: inc/kirki/includes/class-kirki-l10n.php:109
+msgid "Repeat Vertically"
+msgstr "Вертикальное повторение"
+
+#: inc/kirki/includes/class-kirki-l10n.php:108
+msgid "Repeat Horizontally"
+msgstr "Горизонтальное повторение"
+
+#: inc/kirki/includes/class-kirki-l10n.php:107
+msgid "Repeat All"
+msgstr "Повторять все"
+
+#: inc/kirki/includes/class-kirki-l10n.php:106
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: inc/kirki/includes/class-kirki-l10n.php:105
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: inc/kirki/includes/class-kirki-l10n.php:104
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/customize/customize-kirki.php:304
+msgid "Phone Number"
+msgstr "Телефонный номер"
+
+#: inc/customize/customize-kirki.php:290
+msgid "Mobile Call Now option places a Call Now button to the bottom of the screen which is only visible for your mobile visitors."
+msgstr "Функция «Мобильный звонок сейчас» помещает кнопку «Вызов сейчас» в нижней части экрана, которая видна только вашим мобильным посетителям."
+
+#: inc/customize/customize-kirki.php:289
+msgid "Mobile Call Now"
+msgstr "Мобильный звонок сейчас"
+
+#: inc/customize/customize-kirki.php:279
+msgid "H6 Element"
+msgstr "H6 элемент"
+
+#: inc/customize/customize-kirki.php:267
+msgid "H5 Element"
+msgstr "H5 элемент"
+
+#: inc/customize/customize-kirki.php:255
+msgid "H4 Element"
+msgstr "H4 элемент"
+
+#: inc/customize/customize-kirki.php:243
+msgid "H3 Element"
+msgstr "H3 элемент"
+
+#: inc/customize/customize-kirki.php:231
+msgid "H2 Element"
+msgstr "H2 элемент"
+
+#: inc/customize/customize-kirki.php:219
+msgid "H1 Element"
+msgstr "H1 элемент"
+
+#: inc/customize/customize-kirki.php:206
+msgid "Site Title"
+msgstr "Название сайта"
+
+#: inc/customize/customize-kirki.php:192
+msgid "Copy and Paste the Font Name"
+msgstr "Скопируйте и вставьте имя шрифта"
+
+#: inc/customize/customize-kirki.php:191
+msgid "All Google Fonts"
+msgstr "Все шрифты Google"
+
+#: inc/customize/customize-kirki.php:182
+msgid "zoomInUp"
+msgstr "приближение сверху"
+
+#: inc/customize/customize-kirki.php:181
+msgid "zoomInRight"
+msgstr "приближение справа"
+
+#: inc/customize/customize-kirki.php:180
+msgid "zoomInLeft"
+msgstr "приближение слева"
+
+#: inc/customize/customize-kirki.php:179
+msgid "zoomInDown"
+msgstr "приближение снизу"
+
+#: inc/customize/customize-kirki.php:178
+msgid "zoomIn"
+msgstr "приближение"
+
+#: inc/customize/customize-kirki.php:177
+msgid "wobble"
+msgstr "колебание"
+
+#: inc/customize/customize-kirki.php:176
+msgid "tada"
+msgstr "та-дам"
+
+#: inc/customize/customize-kirki.php:175
+msgid "swing"
+msgstr "взмах"
+
+#: inc/customize/customize-kirki.php:174
+msgid "slideInUp"
+msgstr "слайд вверх"
+
+#: inc/customize/customize-kirki.php:173
+msgid "slideInRight"
+msgstr "слайд вправо"
+
+#: inc/customize/customize-kirki.php:172
+msgid "slideInLeft"
+msgstr "слайд влево"
+
+#: inc/customize/customize-kirki.php:171
+msgid "slideInDown"
+msgstr "слайд вниз"
+
+#: inc/customize/customize-kirki.php:170
+msgid "shake"
+msgstr "встряска"
+
+#: inc/customize/customize-kirki.php:169
+msgid "rotateInUpRight"
+msgstr "вращение вверх-вправо"
+
+#: inc/customize/customize-kirki.php:168
+msgid "rotateInUpLeft"
+msgstr "вращение вверх-влево"
+
+#: inc/customize/customize-kirki.php:167
+msgid "rotateInDownRight"
+msgstr "вращение вниз-вправо"
+
+#: inc/customize/customize-kirki.php:166
+msgid "rotateInDownLeft"
+msgstr "вращение вниз-влево"
+
+#: inc/customize/customize-kirki.php:165
+msgid "rotateIn"
+msgstr "вращение"
+
+#: inc/customize/customize-kirki.php:164
+msgid "rollIn"
+msgstr "ролл"
+
+#: inc/customize/customize-kirki.php:163
+msgid "pulse"
+msgstr "пульс"
+
+#: inc/customize/customize-kirki.php:162
+msgid "lightSpeedIn"
+msgstr "световая скорость"
+
+#: inc/customize/customize-kirki.php:161
+msgid "jello"
+msgstr "желе"
+
+#: inc/customize/customize-kirki.php:160
+msgid "hinge"
+msgstr "петля"
+
+#: inc/customize/customize-kirki.php:159
+msgid "headShake"
+msgstr "встряска шапки"
+
+#: inc/customize/customize-kirki.php:158
+msgid "flipInY"
+msgstr "переворот Y"
+
+#: inc/customize/customize-kirki.php:157
+msgid "flip"
+msgstr "переворот"
+
+#: inc/customize/customize-kirki.php:156
+msgid "flash"
+msgstr "вспышка"
+
+#: inc/customize/customize-kirki.php:155
+msgid "fadeInUpBig"
+msgstr "появление сверху с увеличением"
+
+#: inc/customize/customize-kirki.php:154
+msgid "fadeInUp"
+msgstr "появление сверху"
+
+#: inc/customize/customize-kirki.php:153
+msgid "fadeInRightBig"
+msgstr "появление справа с увеличением"
+
+#: inc/customize/customize-kirki.php:152
+msgid "fadeInRight"
+msgstr "появление справа"
+
+#: inc/customize/customize-kirki.php:151
+msgid "fadeInLeftBig"
+msgstr "появление слева с увеличением"
+
+#: inc/customize/customize-kirki.php:150
+msgid "fadeInLeft"
+msgstr "появление слева"
+
+#: inc/customize/customize-kirki.php:149
+msgid "fadeInDownBig"
+msgstr "появление снизу с увеличением"
+
+#: inc/customize/customize-kirki.php:148
+msgid "bounceInUp"
+msgstr "подскок вверх"
+
+#: inc/customize/customize-kirki.php:147
+msgid "bounceInRight"
+msgstr "подскок вправо"
+
+#: inc/customize/customize-kirki.php:146
+msgid "bounceInLeft"
+msgstr "подскок влево"
+
+#: inc/customize/customize-kirki.php:145
+msgid "bounceInDown"
+msgstr "подскок вниз"
+
+#: inc/customize/customize-kirki.php:144
+msgid "bounceIn"
+msgstr "подскок"
+
+#: inc/customize/customize-kirki.php:143
+msgid "bounce"
+msgstr "отскок"
+
+#: inc/customize/customize-kirki.php:142
+msgid "flipInX"
+msgstr "переворот X"
+
+#: inc/customize/customize-kirki.php:141
+msgid "fadeIn"
+msgstr "постепенное появление"
+
+#: inc/customize/customize-kirki.php:140
+#: inc/kirki/includes/class-kirki-l10n.php:204
+msgid "None"
+msgstr "Ничего"
+
+#: inc/customize/customize-kirki.php:135
+msgid "Select Animation"
+msgstr "Выбрать анимацию"
+
+#: inc/customize/customize-kirki.php:121
+msgid "Sidebar Animations"
+msgstr "Анимации сайдбара"
+
+#: inc/customize/customize-kirki.php:105
+msgid "Remove comments page from the menu"
+msgstr "Удалить страницу комментариев из меню"
+
+#: inc/customize/customize-kirki.php:88
+msgid "Hide existing comments"
+msgstr "Скрыть имеющиеся комментарии"
+
+#: inc/customize/customize-kirki.php:76 inc/customize/customize-kirki.php:94
+#: inc/customize/customize-kirki.php:111 inc/customize/customize-kirki.php:335
+msgid "off"
+msgstr "выкл"
+
+#: inc/customize/customize-kirki.php:75 inc/customize/customize-kirki.php:93
+#: inc/customize/customize-kirki.php:110 inc/customize/customize-kirki.php:334
+msgid "on"
+msgstr "вкл"
+
+#: inc/customize/customize-kirki.php:70
+msgid "Hide All Comments"
+msgstr "Скрыть все комментарии"
+
+#: inc/customize/customize-kirki.php:56
+msgid "Disable All Comments"
+msgstr "Отключить все комментарии"
+
+#: inc/customize/customize-kirki.php:39
+msgid "Code Control"
+msgstr "Контроль кода"
+
+#: inc/customize/customize-kirki.php:25
+msgid "Add custom CSS here"
+msgstr "Добавить пользовательские CSS здесь"
+
+#: inc/customize/customize-kirki.php:24
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: inc/customize/customize-kirki.php:16
+msgid "Free Kirki Options"
+msgstr "Бесплатные Kirki опции"
+
+#: inc/customize/customize-kirki.php:15
+msgid "Free Options"
+msgstr "Бесплатные опции"
+
+#: inc/customize/slider-customize.php:10 inc/customize/slider-customize.php:11
+msgid "Demo Slide"
+msgstr "Демонстрационный слайд"
+
+#: inc/customize/slider-customize.php:218
+msgid "Slide 1 URL:"
+msgstr "URL слайда 1:"
+
+#: inc/customize/slider-customize.php:206
+msgid "Slide 1 Text:"
+msgstr "Текст слайда 1:"
+
+#: inc/customize/slider-customize.php:196
+msgid "Slide 1 IMG:"
+msgstr "Изображения слайда 1:"
+
+#: inc/customize/slider-customize.php:180
+msgid "Slide Background Color"
+msgstr "Фоновый цвет слайда"
+
+#: inc/customize/slider-customize.php:167
+msgid "Slide Title Hover Color"
+msgstr "Цвет наложения заголовка слайда"
+
+#: inc/customize/slider-customize.php:154
+msgid "Slide Title Color"
+msgstr "Цвет заголовка слайда"
+
+#: inc/magazine-news-functions.php:168
+msgid "Magazine News Buy"
+msgstr "Magazine News купить"
+
+#: inc/magazine-news-functions.php:169 inc/magazine-news-functions.php:198
+#: inc/magazine-news-functions.php:209
+msgid "Magazine News Buy Premium"
+msgstr "Magazine News купить Premium"
+
+#: inc/magazine-news-functions.php:199
+msgid "\tLearn more about Magazine News. "
+msgstr "\tЧитать больше об Magazine News. "
+
+#: inc/premium-options.php:29
+msgid "Buy"
+msgstr "Купить"
+
+#: inc/premium-options.php:29
+msgid " Now"
+msgstr " Сейчас"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:63
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:20 template-parts/content.php:68
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "К сожалению, ничего не найдено. Пожалуйста, попытайтесь снова с другими ключевыми словами."
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свой первый пост? <a href=\"%1$s\"> Начать здесь </a>."
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:69 template-parts/content-page.php:31
+msgid " Edit %s"
+msgstr " Редактировать %s"
+
+#: inc/template-tags.php:62
+msgid " % Comments/"
+msgstr " % Комментариев/"
+
+#: inc/template-tags.php:62
+msgid " 1 Comment "
+msgstr " 1 Комментарий "
+
+#: inc/template-tags.php:62
+msgid " Leave a comment "
+msgstr " Оставить комментарий "
+
+#: inc/template-tags.php:56
+msgid "Tagged: %1$s"
+msgstr "Метки: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:54
+msgid " "
+msgstr " "
+
+#: inc/template-tags.php:50
+msgid " Category: %1$s"
+msgstr " Рубрика: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:31
+msgctxt "post author"
+msgid " By: %s "
+msgstr " Автор: %s "
+
+#: inc/template-tags.php:26
+msgctxt "post date"
+msgid "%s "
+msgstr "%s "
+
+#: header.php:59
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: inc/magazine-news-functions.php:103
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: inc/magazine-news-functions.php:92
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: inc/magazine-news-functions.php:81
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: inc/magazine-news-functions.php:70
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: inc/magazine-news-functions.php:60
+msgid "Sidebar Right"
+msgstr "Боковая правая панель"
+
+#: inc/magazine-news-functions.php:23
+msgid "Primary"
+msgstr "Основное"
+
+#: footer.php:50
+msgid "Theme by SEOS"
+msgstr "Тема от SEOS"
+
+#: footer.php:50
+msgid "https://seosthemes.com/"
+msgstr "https://seosthemes.com/"
+
+#: footer.php:50
+msgid "Wordpress theme"
+msgstr "Wordpress тема"
+
+#: footer.php:48
+msgid "Powered by %s"
+msgstr "Работает на %s"
+
+#: footer.php:48
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:46
+msgid "All rights reserved"
+msgstr "Все права защищены"
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:55 comments.php:76
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:54 comments.php:75
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: comments.php:51 comments.php:72
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: %1$s: smiley
+#: 404.php:49
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте посмотреть в архивах за прошлые месяцы. %1$s"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Самые популярные рубрики"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже, в этом месте ничего не найдено. Может быть, попробуете одну из ссылок ниже или поиск?"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Эта страница не может быть найдена."
+
+#. Author URI of the plugin/theme
+msgid "http://seosthemes.com/"
+msgstr "http://seosthemes.com/"
+
+#. Author of the plugin/theme
+msgid "SEOS"
+msgstr "SEOS"
+
+#. Theme URI of the plugin/theme
+msgid "http://seosthemes.com/magazine-news/"
+msgstr "http://seosthemes.com/magazine-news/"

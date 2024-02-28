@@ -1,0 +1,1582 @@
+# Translation of Plugins - WP Statistics - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WP Statistics - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-12 17:00:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP Statistics - Stable (latest release)\n"
+
+#: includes/class-wp-statistics-helper.php:728
+msgid "Email from"
+msgstr "Email от"
+
+#: includes/admin/templates/plugins.php:5
+msgid "The Add-Ons add more functionality to WP Statistics and unlock the premium features."
+msgstr "Дополнения добавляют больше функциональности в WP Statistics и разблокируют премиум-функции."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:267
+#: includes/admin/class-wp-statistics-admin-assets.php:300
+msgid "Last 30 days"
+msgstr "Последние 30 дней"
+
+#: src/Service/Admin/AddOnDecorator.php:136
+msgid "Not activated"
+msgstr "Не активирован"
+
+#: src/Service/Admin/AddOnDecorator.php:133
+msgid "Activated"
+msgstr "Активировано"
+
+#: includes/admin/class-wp-statistics-admin-network.php:67
+#: includes/class-wp-statistics-menus.php:228
+msgid "Taxonomies"
+msgstr "Таксономии"
+
+#: includes/admin/templates/pages/page-chart.php:99
+msgid "Latest Visitors"
+msgstr "Последние посетители"
+
+#: includes/admin/templates/pages/page-chart.php:73
+msgid "Visitors Map"
+msgstr "Карта посещений"
+
+#: includes/admin/templates/pages/page-chart.php:30
+msgid "Top Browsers"
+msgstr "Лучшие браузеры"
+
+#: includes/admin/templates/meta-box/about.php:17
+msgid "V%s"
+msgstr "V%s"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:306
+msgid "This year"
+msgstr "В этом году"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:305
+msgid "Last 6 months"
+msgstr "Последние 6 месяцев"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:304
+msgid "Last 120 days"
+msgstr "Последние 120 дней"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:299
+msgid "Last 14 days"
+msgstr "Последние 14 дней"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:278
+msgid "#"
+msgstr "#"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:272
+msgid "Last year"
+msgstr "Прошлый год"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:270
+msgid "Last 12 months"
+msgstr "Последние 12 месяцев"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:269
+#: includes/admin/class-wp-statistics-admin-assets.php:303
+msgid "Last 90 days"
+msgstr "Последние 90 дней"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:268
+#: includes/admin/class-wp-statistics-admin-assets.php:302
+msgid "Last 60 days"
+msgstr "Последние 60 дней"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:265
+msgid "Last week"
+msgstr "Прошлая неделя"
+
+#: includes/class-wp-statistics-pages.php:382
+#: includes/class-wp-statistics-pages.php:384
+msgid "Post Archive: %s"
+msgstr "Архив записей: %s"
+
+#: includes/admin/templates/settings/notifications.php:159
+msgid "WP SMS"
+msgstr "WP СМС"
+
+#: includes/class-wp-statistics-privacy-exporter.php:47
+msgid "Statistics Data"
+msgstr "Данные статистики"
+
+#: includes/admin/class-wp-statistics-admin-privacy.php:48
+msgid "IP address"
+msgstr "IP адрес"
+
+#: includes/admin/class-wp-statistics-admin-privacy.php:45
+msgid "Browser user agent: we’ll use this for purposes like creating charts of views, most used browsers, etc."
+msgstr "Браузерный пользовательский агент: мы будем использовать его для целей, таких как создание графиков просмотров, наиболее используемых браузеров и т. д."
+
+#: includes/class-wp-statistics-user-agent.php:108
+msgctxt "Device Model"
+msgid "Unknown"
+msgstr "Неизвестный"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-models.php:61
+#: includes/class-wp-statistics-user-agent.php:43
+msgctxt "Model"
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-devices.php:61
+#: includes/class-wp-statistics-user-agent.php:42
+msgctxt "Device"
+msgid "Unknown"
+msgstr "Неизвестный"
+
+#: includes/class-wp-statistics-meta-box.php:132
+msgid "Top Device Models"
+msgstr "Лучшие модели устройств"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-models.php:90
+#: includes/admin/meta-box/wp-statistics-meta-box-models.php:92
+msgid "Manufacturers"
+msgstr "Производители"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-devices.php:90
+#: includes/admin/meta-box/wp-statistics-meta-box-devices.php:92
+msgid "Devices"
+msgstr "Устройства"
+
+#: includes/class-wp-statistics-admin-bar.php:112
+msgid "Unlock Mini Chart!"
+msgstr "Разблокировать мини-диаграмму!"
+
+#: includes/class-wp-statistics-admin-bar.php:63
+msgid "Author Views"
+msgstr "Просмотры автора"
+
+#: includes/class-wp-statistics-admin-bar.php:58
+msgid "Tag Views"
+msgstr "Просмотры метки"
+
+#: includes/class-wp-statistics-admin-bar.php:53
+msgid "Category Views"
+msgstr "Просмотры рубрики"
+
+#: includes/class-wp-statistics-admin-bar.php:48
+msgid "Page Views"
+msgstr "Просмотры страниц"
+
+#: includes/admin/templates/pages/page-chart.php:125
+#: includes/class-wp-statistics-meta-box.php:154
+msgid "Top Referring"
+msgstr "Лучшие ссылающиеся"
+
+#: includes/admin/templates/pages/pages.php:8
+#: includes/class-wp-statistics-meta-box.php:282
+msgid "Top 5 Trending Pages"
+msgstr "5 самых популярных страниц"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-optimization.php:114
+msgid "The %1$s table does not support optimize, doing recreate + analyze instead."
+msgstr "Таблица %1$s не поддерживает оптимизацию, вместо этого выполняется воссоздание + анализ."
+
+#: includes/admin/templates/optimization/database.php:67
+msgid "Please select database table"
+msgstr "Пожалуйста, выберите таблицу базы данных"
+
+#: includes/admin/templates/settings/privacy.php:26
+msgid "Also, it disables the \"Store entire user agent string\" setting."
+msgstr "Кроме того, он отключает настройку «Сохранить всю строку пользовательского агента»."
+
+#: includes/admin/templates/settings/exclusions.php:47
+msgid "Add"
+msgstr "Добавить"
+
+#: includes/admin/templates/pages/category.php:52
+msgid "Chart Visits:"
+msgstr "Диаграмма посещений:"
+
+#: includes/admin/templates/pages/top-visitors.php:14
+msgid "No information is available for this day."
+msgstr "На этот день информации нет."
+
+#: includes/admin/templates/pages/author.php:57
+#: includes/admin/templates/pages/category.php:57
+#: includes/admin/templates/pages/tag.php:57
+msgid "All Time Visits:"
+msgstr "Посещения за все время:"
+
+#: includes/admin/templates/pages/author.php:52
+#: includes/admin/templates/pages/tag.php:52
+msgid "Visits Total:"
+msgstr "Всего посещений:"
+
+#: includes/admin/templates/pages/online.php:23
+#: includes/admin/templates/pages/top-visitors.php:29
+#: includes/admin/templates/pages/visitors.php:42
+msgid "User"
+msgstr "Пользователь"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-visitors.php:203
+msgid "Filters"
+msgstr "Фильтры"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-visitors.php:156
+msgid "Custom filter"
+msgstr "Пользовательский фильтр"
+
+#: includes/class-wp-statistics.php:296
+msgid "</strong> or greater."
+msgstr "</strong> или больше."
+
+#: includes/class-wp-statistics.php:296
+msgid "The <strong>WP Statistics</strong> plugin requires PHP version <strong>"
+msgstr "Плагин <strong>WP Statistics</strong> требует версии PHP <strong>"
+
+#: includes/class-wp-statistics.php:295
+msgid "Your installed PHP Version is: "
+msgstr "Ваша версия PHP:"
+
+#: includes/class-wp-statistics.php:81
+msgid "Cloning is forbidden."
+msgstr "Клонирование запрещено."
+
+#: includes/class-wp-statistics-helper.php:785
+msgid "Category"
+msgstr "Категория"
+
+#: includes/admin/templates/pages/page-chart.php:43
+msgid "Top Platforms"
+msgstr "Лучшие платформы"
+
+#: includes/class-wp-statistics-exclusion.php:33
+msgid "Honeypot"
+msgstr "Ловушка ханипот"
+
+#: includes/class-wp-statistics-exclusion.php:28
+msgid "404"
+msgstr "404"
+
+#: includes/class-wp-statistics-exclusion.php:27
+#: includes/class-wp-statistics-pages.php:365
+msgid "Feed"
+msgstr "Лента"
+
+#: includes/class-wp-statistics-exclusion.php:21
+msgid "Broken Link"
+msgstr "Неработающая ссылка"
+
+#: includes/class-wp-statistics-exclusion.php:19
+msgid "Crawler Detect"
+msgstr "Обнаружение пауков"
+
+#: includes/class-wp-statistics-exclusion.php:18
+msgid "Cron job"
+msgstr "Cron job"
+
+#: includes/class-wp-statistics-exclusion.php:17
+msgid "Ajax"
+msgstr "Ajax"
+
+#. Description of the plugin
+msgid "This plugin gives you the complete information on your website's visitors."
+msgstr "Этот плагин дает вам полную информацию о посетителях вашего сайта."
+
+#: includes/admin/templates/settings/visitor-ip.php:110
+#: includes/admin/templates/settings/visitor-ip.php:149
+msgid "Your value required to sanitize user IP"
+msgstr "Ваше значение, необходимое для очистки IP-адреса пользователя"
+
+#: includes/admin/templates/settings/visitor-ip.php:105
+#: includes/admin/templates/settings/visitor-ip.php:144
+msgid "No available data."
+msgstr "Нет доступных данных."
+
+#: includes/admin/templates/settings/visitor-ip.php:19
+msgid "Value"
+msgstr "Значение"
+
+#: includes/admin/templates/settings/visitor-ip.php:18
+msgid "$_SERVER"
+msgstr "$_SERVER"
+
+#: includes/admin/templates/optimization/resources.php:292
+msgid "Server Info"
+msgstr "Информация о сервере"
+
+#: includes/class-wp-statistics-install.php:585
+msgid "Item processed"
+msgstr "Элемент обработан"
+
+#: includes/class-wp-statistics-install.php:583
+msgid "Please don't close the browser window until the database operation was completed."
+msgstr "Пожалуйста, не закрывайте окно браузера, пока операция с базой данных не будет завершена."
+
+#: includes/class-wp-statistics-install.php:510
+msgid "Upgrade Database"
+msgstr "Обновление базы данных"
+
+#: includes/class-wp-statistics-install.php:507
+msgid "WP Statistics database requires upgrade."
+msgstr "База данных WP-Statistics требует обновления."
+
+#: includes/class-wp-statistics-pages.php:387
+msgid "Post Archive"
+msgstr "Архив записей"
+
+#: includes/class-wp-statistics-pages.php:374
+msgid "404 not found"
+msgstr "404 Не найдено"
+
+#: includes/class-wp-statistics-pages.php:371
+msgid "Search Page"
+msgstr "Страница поиска"
+
+#: includes/class-wp-statistics-pages.php:352
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: includes/admin/class-wp-statistics-admin-template.php:182
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: includes/admin/class-wp-statistics-admin-template.php:181
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: includes/class-wp-statistics-user-agent.php:67
+msgid "Edge"
+msgstr "Edge"
+
+#: includes/class-wp-statistics-user-agent.php:66
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+#: includes/class-wp-statistics-user-agent.php:65
+msgid "Firefox"
+msgstr "Firefox"
+
+#: includes/class-wp-statistics-user-agent.php:64
+msgid "Chrome"
+msgstr "Chrome"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-referring.php:56
+#: includes/admin/templates/pages/top.refer.php:23
+msgid "Server IP"
+msgstr "IP сервера"
+
+#: includes/admin/templates/pages/top.refer.php:22
+msgid "Site Title"
+msgstr "Название сайта"
+
+#: includes/admin/templates/pages/top.refer.php:21
+msgid "Site Url"
+msgstr "Url сайта"
+
+#: includes/admin/templates/pages/top.refer.php:20
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: includes/class-wp-statistics-user-agent.php:69
+msgid "Safari"
+msgstr "Safari"
+
+#: includes/class-wp-statistics-user-agent.php:68
+msgid "Opera"
+msgstr "Opera"
+
+#: includes/admin/templates/meta-box/about.php:37
+msgid "Power by VeronaLabs"
+msgstr "Мощь VeronaLabs"
+
+#: includes/admin/templates/settings/externals.php:43
+#: includes/admin/templates/settings/externals.php:60
+msgid "Update Database"
+msgstr "Обновить базу данных"
+
+#: includes/admin/templates/pages/refer.url.php:31
+msgid "Link"
+msgstr "Ссылка"
+
+#: includes/admin/templates/pages/pages.php:45
+#: includes/admin/templates/pages/taxonomies.php:122
+msgid "Title"
+msgstr "Название"
+
+#: includes/admin/class-wp-statistics-admin-template.php:274
+#: includes/class-wp-statistics-geoip.php:503
+#: includes/class-wp-statistics-user-agent.php:84
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: includes/admin/templates/pages/online.php:17
+#: includes/admin/templates/pages/top-visitors.php:24
+#: includes/admin/templates/pages/visitors.php:31
+#: includes/admin/templates/pages/words.php:32
+msgid "City"
+msgstr "Город"
+
+#: includes/admin/templates/pages/words.php:26
+msgid "Word"
+msgstr "Слово"
+
+#: includes/class-wp-statistics-search-engine.php:117
+msgid "Qwant"
+msgstr "Qwant"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:282
+#: includes/admin/templates/pages/online.php:46
+#: includes/admin/templates/pages/pages.php:44
+#: includes/admin/templates/pages/taxonomies.php:121
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:65
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:61
+msgid "Provider"
+msgstr "Провайдер"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:58
+msgid "Year"
+msgstr "Год"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:57
+msgid "Month"
+msgstr "Месяц"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:56
+msgid "Week"
+msgstr "Неделя"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:53
+msgid "Select item ..."
+msgstr "Выберите пункт ..."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:276
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:52
+msgid "Time"
+msgstr "Время"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:34
+msgid "WP Statistics Shortcodes"
+msgstr "Шорткоды WP Statistics"
+
+#: includes/admin/templates/pages/online.php:22
+#: includes/admin/templates/pages/top-visitors.php:30
+#: includes/admin/templates/pages/visitors.php:50
+#: includes/admin/templates/pages/words.php:36
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:50
+#: includes/class-wp-statistics-shortcode.php:209
+msgid "Referrer"
+msgstr "Реферер"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:92
+msgid "GeoIP collection is not enabled. Please go to <a href=\"%s\">setting page</a> to enable GeoIP for getting more information and location (country) from the visitor."
+msgstr "Сбор GeoIP не включен. Перейдите на <a href=\"%s\">страницу настроек</a>, чтобы включить GeoIP для получения дополнительной информации и местоположения (страны) от посетителя."
+
+#: includes/admin/templates/settings/about.php:14
+msgid "Version %s"
+msgstr "Версия %s"
+
+#: includes/admin/templates/settings/general.php:231
+msgid "After Content"
+msgstr "После содержимого"
+
+#: includes/admin/templates/settings/general.php:230
+msgid "Before Content"
+msgstr "Над содержимым"
+
+#: includes/admin/templates/layout/select.php:6
+msgid "Select Page"
+msgstr "Выбор страницы"
+
+#. Author URI of the plugin
+msgid "https://veronalabs.com/"
+msgstr "https://veronalabs.com/"
+
+#. Author of the plugin
+msgid "VeronaLabs"
+msgstr "VeronaLabs"
+
+#: includes/admin/templates/postbox.php:12
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: includes/admin/class-wp-statistics-admin-network.php:70
+#: includes/admin/meta-box/wp-statistics-meta-box-platforms.php:90
+#: includes/admin/meta-box/wp-statistics-meta-box-platforms.php:92
+#: includes/class-wp-statistics-menus.php:249
+msgid "Platforms"
+msgstr "Платформы"
+
+#: includes/admin/templates/header.php:30
+#: includes/admin/templates/meta-box/about.php:26
+#: includes/admin/templates/plugins.php:4
+#: includes/class-wp-statistics-menus.php:284
+#: includes/class-wp-statistics-menus.php:285
+msgid "Add-Ons"
+msgstr "Дополнения"
+
+#: includes/admin/class-wp-statistics-admin-network.php:68
+#: includes/class-wp-statistics-menus.php:235
+msgid "Authors"
+msgstr "Авторы"
+
+#: includes/class-wp-statistics-helper.php:785
+msgid "Tags"
+msgstr "Метки"
+
+#: includes/class-wp-statistics-widget.php:90
+#: includes/class-wp-statistics-widget.php:292
+msgid "Last 365 Days Visits"
+msgstr "Просмотров за последние 365 дней"
+
+#: includes/class-wp-statistics-widget.php:83
+#: includes/class-wp-statistics-widget.php:288
+msgid "Last 30 Days Visits"
+msgstr "Просмотров за последние 30 дней"
+
+#: includes/class-wp-statistics-widget.php:76
+#: includes/class-wp-statistics-widget.php:284
+msgid "Last 7 Days Visits"
+msgstr "Просмотров за последние 7 дней"
+
+#: includes/admin/templates/add-ons.php:50
+msgid "Activate Add-On"
+msgstr "Активировать дополнение"
+
+#: src/Service/Admin/AddOnDecorator.php:141
+msgid "Inactive"
+msgstr "Неактивно"
+
+#: includes/admin/templates/settings/reset.php:15
+msgid "Reset"
+msgstr "Сброс"
+
+#: includes/admin/templates/settings/notifications.php:179
+#: includes/admin/templates/settings/notifications.php:181
+#: includes/class-wp-statistics-admin-bar.php:98
+#: includes/class-wp-statistics-widget.php:48
+#: includes/class-wp-statistics-widget.php:268
+msgid "Today's Visits"
+msgstr "Визитов сегодня"
+
+#: includes/class-wp-statistics-admin-bar.php:94
+#: includes/class-wp-statistics-widget.php:55
+#: includes/class-wp-statistics-widget.php:272
+msgid "Today's Visitors"
+msgstr "Посетителей сегодня"
+
+#: includes/admin/templates/settings/externals.php:81
+msgid "First Tuesday of next month"
+msgstr "Первый вторник следующего месяца"
+
+#: includes/admin/templates/settings/externals.php:78
+#: includes/class-wp-statistics-schedule.php:185
+msgid "First Tuesday of this month"
+msgstr "Первый вторник этого месяца"
+
+#: includes/admin/templates/settings/exclusions.php:43
+msgid "For IPv6 addresses, use the fc00::/7 format."
+msgstr "Для адресов IPv6 используйте формат fc00::/7."
+
+#: includes/admin/templates/settings/exclusions.php:42
+msgid "For IPv4 addresses, both 192.168.0.0/24 and 192.168.0.0/255.255.255.0 formats are acceptable. To specify an IP address, use a subnet value of 32 or 255.255.255.255."
+msgstr "Для адресов IPv4 приемлемы форматы 192.168.0.0/24 и 192.168.0.0/255.255.255.0. Чтобы указать IP-адрес, используйте значение подсети 32 или 255.255.255.255."
+
+#: includes/admin/templates/header.php:9
+#: includes/admin/templates/meta-box/about.php:21
+#: includes/admin/templates/settings/about.php:87
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/admin/templates/layout/date.range.php:67
+msgid "Last 30 Days"
+msgstr "Последние 30 дней:"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:266
+#: includes/admin/class-wp-statistics-admin-assets.php:298
+msgid "Last 7 days"
+msgstr "Последние 7 дней:"
+
+#: includes/admin/templates/pages/page-chart.php:112
+msgid "Top Visitors"
+msgstr "Топ посетителей"
+
+#: includes/admin/templates/pages/tag.php:43
+msgid "Number of posts in tag:"
+msgstr "Количество постов с меткой:"
+
+#: includes/admin/templates/pages/tag.php:26
+#: includes/admin/templates/pages/tag.php:29
+msgid "Tag Statistics Summary"
+msgstr "Общая статистика меток"
+
+#: includes/admin/templates/pages/tag.php:7
+#: includes/admin/templates/pages/tag.php:10
+msgid "Tag Statistics Chart"
+msgstr "Диаграмма статистики по меткам"
+
+#: includes/admin/class-wp-statistics-admin-template.php:188
+msgid "Page %1$s of %2$s"
+msgstr "Страница %1$s из %2$s"
+
+#: includes/admin/templates/pages/category.php:43
+msgid "The Number of Posts in Category:"
+msgstr "Количество записей в категории:"
+
+#: includes/admin/templates/pages/category.php:25
+#: includes/admin/templates/pages/category.php:27
+msgid "Category Statistics Summary"
+msgstr "Сводная статистика по рубрике"
+
+#: includes/admin/templates/pages/category.php:6
+#: includes/admin/templates/pages/category.php:8
+msgid "Category Statistics Chart"
+msgstr "Диаграмма статистики по рубрикам"
+
+#: includes/admin/templates/pages/author.php:43
+msgid "Number of posts by author:"
+msgstr "Количество постов автора:"
+
+#: includes/admin/templates/pages/author.php:36
+#: includes/admin/templates/pages/author.php:85
+#: includes/admin/templates/pages/category.php:36
+#: includes/admin/templates/pages/category.php:85
+#: includes/admin/templates/pages/tag.php:36
+#: includes/admin/templates/pages/tag.php:85
+#: includes/admin/templates/pages/taxonomies.php:36
+msgid "Count"
+msgstr "Подсчёт"
+
+#: includes/admin/templates/pages/author.php:25
+#: includes/admin/templates/pages/author.php:27
+msgid "Author Statistics Summary"
+msgstr "Общая статистика по автору"
+
+#: includes/admin/templates/pages/author.php:6
+#: includes/admin/templates/pages/author.php:8
+msgid "Author Statistics Chart"
+msgstr "Диаграмма статистики по автору"
+
+#: includes/admin/templates/layout/date.range.php:15
+msgid "Select"
+msgstr "Выбрать"
+
+#: includes/admin/templates/pages/author.php:8
+#: includes/admin/templates/pages/author.php:27
+#: includes/admin/templates/pages/author.php:76
+#: includes/admin/templates/pages/category.php:8
+#: includes/admin/templates/pages/category.php:27
+#: includes/admin/templates/pages/category.php:76
+#: includes/admin/templates/pages/pages.php:8
+#: includes/admin/templates/pages/pages.php:27
+#: includes/admin/templates/pages/refer.url.php:21
+#: includes/admin/templates/pages/tag.php:7
+#: includes/admin/templates/pages/tag.php:26
+#: includes/admin/templates/pages/tag.php:75
+#: includes/admin/templates/pages/taxonomies.php:8
+#: includes/admin/templates/pages/taxonomies.php:27
+#: includes/admin/templates/pages/taxonomies.php:88
+msgid "Toggle panel: %s"
+msgstr "Переключить панель: %s"
+
+#: includes/defines/country-codes.php:6
+msgctxt "Country"
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: includes/class-wp-statistics-search-engine.php:151
+msgctxt "Search Engine"
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: includes/class-wp-statistics-user-agent.php:35
+#: includes/class-wp-statistics-user-agent.php:158
+msgctxt "Version"
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-platforms.php:61
+#: includes/class-wp-statistics-user-agent.php:40
+#: includes/class-wp-statistics-user-agent.php:123
+msgctxt "Platform"
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: includes/class-wp-statistics-user-agent.php:39
+#: includes/class-wp-statistics-user-agent.php:153
+msgctxt "Browser"
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:259
+msgid "Reload"
+msgstr "Перезагрузить"
+
+#. Plugin URI of the plugin
+msgid "https://wp-statistics.com/"
+msgstr "https://wp-statistics.com/"
+
+#: includes/class-wp-statistics-geoip.php:389
+#: includes/class-wp-statistics-geoip.php:392
+msgid "GeoIP update on"
+msgstr "GeoIP обновлен"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-optimization.php:36
+#: includes/admin/pages/class-wp-statistics-admin-page-settings.php:16
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас нет достаточных прав для доступа к этой странице."
+
+#: includes/admin/class-wp-statistics-admin-network.php:51
+msgid "Options"
+msgstr "Параметры"
+
+#: includes/admin/class-wp-statistics-admin-network.php:73
+#: includes/admin/templates/header.php:29
+#: includes/class-wp-statistics-menus.php:270
+msgid "Optimization"
+msgstr "Оптимизация"
+
+#: includes/admin/class-wp-statistics-admin-network.php:71
+#: includes/admin/pages/class-wp-statistics-admin-page-top-visitors-today.php:33
+#: includes/class-wp-statistics-menus.php:256
+msgid "Top Visitors Today"
+msgstr "Топ посетителей за сегодня"
+
+#: includes/admin/class-wp-statistics-admin-network.php:64
+#: includes/class-wp-statistics-menus.php:200
+msgid "Search Words"
+msgstr "Поисковые слова"
+
+#: includes/admin/class-wp-statistics-admin-network.php:63
+#: includes/class-wp-statistics-menus.php:193
+msgid "Referrers"
+msgstr "Источники"
+
+#: includes/admin/class-wp-statistics-admin-network.php:61
+#: includes/class-wp-statistics-menus.php:179
+msgid "Online"
+msgstr "Онлайн"
+
+#: includes/admin/class-wp-statistics-admin-network.php:29
+#: includes/admin/class-wp-statistics-admin-network.php:59
+#: includes/class-wp-statistics-menus.php:166
+msgid "Overview"
+msgstr "Обзор"
+
+#: includes/class-wp-statistics-install.php:323
+msgid "Rate this plugin"
+msgstr "Оценить этот плагин"
+
+#: includes/class-wp-statistics-install.php:323
+msgid "Click here to rate and review this plugin on WordPress.org"
+msgstr "Нажмите здесь, чтобы оценить и оставить свой отзыв о плагине на WordPress.org"
+
+#: includes/class-wp-statistics-install.php:321
+msgid "Visit WordPress.org page"
+msgstr "Посетите страницы WordPress.org"
+
+#: includes/class-wp-statistics-install.php:321
+msgid "Click here to visit the plugin on WordPress.org"
+msgstr "Нажмите здесь, чтобы посетить на WordPress.org плагин"
+
+#: includes/admin/class-wp-statistics-admin-network.php:74
+#: includes/admin/templates/header.php:28
+#: includes/class-wp-statistics-install.php:304
+#: includes/class-wp-statistics-menus.php:277
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:126
+msgid ","
+msgstr ","
+
+#. Plugin Name of the plugin
+#: includes/admin/class-wp-statistics-admin-privacy.php:25
+#: includes/admin/templates/emails/copyright.php:5
+#: includes/class-wp-statistics-meta-box.php:268
+msgid "WP Statistics"
+msgstr "WP Statistics"
+
+#: includes/class-wp-statistics-widget.php:260
+msgid "Items"
+msgstr "Пункты"
+
+#: includes/class-wp-statistics-widget.php:255
+msgid "Name"
+msgstr "Имя"
+
+#: includes/class-wp-statistics-widget.php:153
+#: includes/class-wp-statistics-widget.php:347
+msgid "Total Users"
+msgstr "Всего участников"
+
+#: includes/class-wp-statistics-widget.php:146
+#: includes/class-wp-statistics-widget.php:343
+msgid "Total Spams"
+msgstr "Всего спама"
+
+#: includes/class-wp-statistics-widget.php:139
+#: includes/class-wp-statistics-widget.php:339
+msgid "Total Comments"
+msgstr "Всего комментариев"
+
+#: includes/class-wp-statistics-widget.php:132
+#: includes/class-wp-statistics-widget.php:335
+msgid "Total Pages"
+msgstr "Всего страниц"
+
+#: includes/class-wp-statistics-widget.php:125
+#: includes/class-wp-statistics-widget.php:331
+msgid "Total Posts"
+msgstr "Всего записей"
+
+#: includes/class-wp-statistics-widget.php:111
+#: includes/class-wp-statistics-widget.php:304
+msgid "Total Page Views"
+msgstr "Общее количество просмотров"
+
+#: includes/admin/class-wp-statistics-admin-network.php:26
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:35
+#: includes/class-wp-statistics-menus.php:159
+#: includes/class-wp-statistics-widget.php:15
+msgid "Statistics"
+msgstr "Статистика"
+
+#: includes/class-wp-statistics-shortcode.php:249
+msgid "The post/page ID to get page statistics on."
+msgstr "ID записи/страницы для получения страницы статистики."
+
+#: includes/class-wp-statistics-shortcode.php:246
+msgid "Post/Page ID"
+msgstr "ID записи или страницы"
+
+#: includes/class-wp-statistics-shortcode.php:241
+msgid "International"
+msgstr "Международный"
+
+#: includes/class-wp-statistics-shortcode.php:240
+msgid "English"
+msgstr "Английский"
+
+#: includes/class-wp-statistics-shortcode.php:230
+msgid "Number Format"
+msgstr "Числовой формат"
+
+#: includes/class-wp-statistics-shortcode.php:226
+msgid "The search provider to get statistics on."
+msgstr ""
+"Поставщик поиска, чтобы получить статистику по.\n"
+"Поисковая система для получения статистики."
+
+#: includes/class-wp-statistics-shortcode.php:223
+msgid "Search Provider"
+msgstr "Поисковый провайдер"
+
+#: includes/class-wp-statistics-shortcode.php:216
+msgid "The time frame to get the statistic for, strtotime() (http://php.net/manual/en/datetime.formats.php) will be used to calculate it. Use \"total\" to get all recorded dates."
+msgstr "Временное окно для получения статистики, strtotime() (http://php.net/manual/en/datetime.formats.php) будет использовано для его расчета, используйте \"total\" для всех записаных данных."
+
+#: includes/class-wp-statistics-shortcode.php:213
+msgid "Time Frame"
+msgstr "Период времени от"
+
+#: includes/class-wp-statistics-shortcode.php:208
+#: includes/class-wp-statistics-widget.php:181
+#: includes/class-wp-statistics-widget.php:363
+msgid "Last Post Date"
+msgstr "Последняя запись на сайте"
+
+#: includes/class-wp-statistics-shortcode.php:207
+#: includes/class-wp-statistics-widget.php:174
+#: includes/class-wp-statistics-widget.php:359
+msgid "User Average"
+msgstr "Пользователей в среднем"
+
+#: includes/class-wp-statistics-shortcode.php:206
+#: includes/class-wp-statistics-widget.php:167
+#: includes/class-wp-statistics-widget.php:355
+msgid "Comment Average"
+msgstr "Комментариев в среднем"
+
+#: includes/class-wp-statistics-shortcode.php:205
+#: includes/class-wp-statistics-widget.php:160
+#: includes/class-wp-statistics-widget.php:351
+msgid "Post Average"
+msgstr "Сообщений в среднем"
+
+#: includes/class-wp-statistics-shortcode.php:204
+msgid "User Count"
+msgstr "Количество пользователей"
+
+#: includes/class-wp-statistics-shortcode.php:203
+msgid "Spam Count"
+msgstr "Количество спама"
+
+#: includes/class-wp-statistics-shortcode.php:202
+msgid "Comment Count"
+msgstr "Количество комментариев"
+
+#: includes/class-wp-statistics-shortcode.php:201
+msgid "Page Count"
+msgstr "Количество страниц"
+
+#: includes/class-wp-statistics-shortcode.php:200
+msgid "Post Count"
+msgstr "Количество записей"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:40
+#: includes/class-wp-statistics-shortcode.php:199
+msgid "Searches"
+msgstr "Поиск"
+
+#: includes/class-wp-statistics-shortcode.php:198
+msgid "Page Visits"
+msgstr "Количество визитов"
+
+#: includes/class-wp-statistics-shortcode.php:192
+msgid "Select the statistic you wish to display."
+msgstr "Выберите статистику, которую вы хотите отображать."
+
+#: includes/class-wp-statistics-shortcode.php:189
+msgid "Statistic"
+msgstr "Статистика"
+
+#: includes/class-wp-statistics-schedule.php:135
+msgid "Once Every 4 Weeks"
+msgstr "Каждые 4 недели"
+
+#: includes/class-wp-statistics-schedule.php:131
+msgid "Once Every 2 Weeks"
+msgstr "Каждые 2 недели"
+
+#: includes/class-wp-statistics-schedule.php:127
+msgid "Once Weekly"
+msgstr "Один раз в неделю"
+
+#: includes/class-wp-statistics-shortcode.php:239
+msgid "None"
+msgstr "Нет"
+
+#: includes/admin/templates/settings/notifications.php:189
+#: includes/class-wp-statistics-widget.php:97
+#: includes/class-wp-statistics-widget.php:296
+msgid "Total Visits"
+msgstr "Всего просмотров"
+
+#: includes/admin/templates/settings/notifications.php:187
+#: includes/class-wp-statistics-widget.php:104
+#: includes/class-wp-statistics-widget.php:300
+msgid "Total Visitors"
+msgstr "Всего посетителей"
+
+#: includes/admin/templates/settings/notifications.php:185
+#: includes/class-wp-statistics-admin-bar.php:106
+#: includes/class-wp-statistics-widget.php:62
+#: includes/class-wp-statistics-widget.php:276
+msgid "Yesterday's Visits"
+msgstr "Вчерашние просмотры"
+
+#: includes/admin/templates/settings/notifications.php:183
+#: includes/class-wp-statistics-admin-bar.php:102
+#: includes/class-wp-statistics-widget.php:69
+#: includes/class-wp-statistics-widget.php:280
+msgid "Yesterday's Visitors"
+msgstr "Вчерашние посетители"
+
+#: includes/admin/templates/settings/notifications.php:151
+msgid "SMS"
+msgstr "SMS"
+
+#: includes/admin/templates/pages/online.php:46
+#: includes/admin/templates/settings/notifications.php:149
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/class-wp-statistics-schedule.php:257
+msgid "Statistical reporting"
+msgstr "Статистическая отчетность"
+
+#: includes/admin/templates/settings/maintenance.php:47
+msgid "Purge High Hit Count Visitors Daily"
+msgstr "Ежедневное удаление посетителей с большим количеством обращений"
+
+#: includes/admin/templates/optimization/purging.php:237
+#: includes/admin/templates/settings/maintenance.php:36
+msgid "Days"
+msgstr "Дней"
+
+#: includes/admin/templates/settings/maintenance.php:14
+msgid "Purge Old Data Daily"
+msgstr "Ежедневное удаление устаревших данных"
+
+#: includes/admin/templates/settings/maintenance.php:5
+msgid "This will permanently delete data from the database each day, are you sure you want to enable this option?"
+msgstr "Это будет окончательно удалить данные из базы данных каждый день, вы уверены, что вы хотите включить эту опцию?"
+
+#: includes/admin/templates/settings/general.php:343
+msgid "Disable %s from data collection and reporting."
+msgstr "Отключите %s от сбора данных и отчетности."
+
+#: includes/admin/templates/settings/general.php:177
+#: includes/admin/templates/settings/general.php:188
+#: includes/admin/templates/settings/general.php:342
+#: includes/admin/templates/settings/overview-display.php:19
+#: includes/admin/templates/settings/overview-display.php:31
+msgid "Disable"
+msgstr "Отключить"
+
+#: includes/admin/class-wp-statistics-admin-network.php:65
+#: includes/class-wp-statistics-menus.php:207
+msgid "Search Engines"
+msgstr "Поисковики"
+
+#: includes/admin/templates/optimization/resources.php:84
+#: includes/admin/templates/optimization/resources.php:100
+#: includes/admin/templates/settings/general.php:284
+msgid "Yes"
+msgstr "Да"
+
+#: includes/admin/templates/optimization/resources.php:86
+#: includes/admin/templates/optimization/resources.php:102
+#: includes/admin/templates/settings/general.php:285
+msgid "No"
+msgstr "Нет"
+
+#: includes/admin/templates/settings/general.php:33
+msgid "Seconds"
+msgstr "Секунд"
+
+#: includes/admin/templates/settings/externals.php:207
+msgid "Matomo Referrer Spam Blacklist Settings"
+msgstr "Настройки черного списка реферер-спама Matomo"
+
+#: includes/admin/templates/settings/externals.php:146
+msgid "PHP safe mode detected! GeoIP collection is not supported with PHP's safe mode enabled!"
+msgstr "Обнаружен безопасный режим PHP! Сбор GeoIP не поддерживается при включенном безопасном режиме PHP!"
+
+#: includes/admin/templates/settings/externals.php:140
+msgid "GeoIP collection requires the BC Math PHP extension and it is not loaded on your version of PHP!"
+msgstr "Для коллекции GeoIP требуется расширение BC Math PHP и оно не загружено в вашей версии PHP!"
+
+#: includes/admin/templates/settings/externals.php:134
+msgid "GeoIP collection requires the cURL PHP extension and it is not loaded on your version of PHP!"
+msgstr "Для коллекции GeoIP требуется расширение cURL PHP, и оно не загружено в вашей версии PHP!"
+
+#: includes/admin/templates/settings/externals.php:130
+msgid "GeoIP collection is disabled due to the following reasons:"
+msgstr "Коллекция GeoIP отключена по следующим причинам:"
+
+#: includes/admin/templates/settings/externals.php:76
+#: includes/admin/templates/settings/externals.php:251
+msgid "Next update will be"
+msgstr "Следующее обновление будет"
+
+#: includes/admin/templates/settings/externals.php:6
+msgid "GeoIP Settings"
+msgstr "Настройки GeoIP"
+
+#: includes/admin/templates/settings/exclusions.php:196
+msgid "Host Exclusions"
+msgstr "DNS исключения"
+
+#: includes/admin/templates/settings/exclusions.php:133
+msgid "GeoIP Exclusions"
+msgstr "Исключения GeoIP"
+
+#: includes/admin/templates/settings/exclusions.php:113
+msgid "Create a new Honey Pot page"
+msgstr "Создать новую страницу-приманку"
+
+#: includes/admin/templates/settings/exclusions.php:76
+msgid "Reset to Default"
+msgstr "Восстановить по умолчанию"
+
+#: includes/admin/templates/settings/exclusions.php:22
+#: includes/admin/templates/settings/exclusions.php:164
+#: includes/admin/templates/settings/exclusions.php:171
+#: includes/admin/templates/settings/exclusions.php:178
+msgid "Exclude"
+msgstr "Исключить"
+
+#: includes/admin/templates/settings/exclusions.php:95
+#: includes/admin/templates/settings/exclusions.php:103
+#: includes/admin/templates/settings/exclusions.php:122
+#: includes/admin/templates/settings/exclusions.php:219
+#: includes/admin/templates/settings/externals.php:41
+#: includes/admin/templates/settings/externals.php:58
+#: includes/admin/templates/settings/externals.php:73
+#: includes/admin/templates/settings/externals.php:111
+#: includes/admin/templates/settings/externals.php:218
+#: includes/admin/templates/settings/general.php:21
+#: includes/admin/templates/settings/general.php:45
+#: includes/admin/templates/settings/general.php:66
+#: includes/admin/templates/settings/general.php:77
+#: includes/admin/templates/settings/general.php:119
+#: includes/admin/templates/settings/general.php:130
+#: includes/admin/templates/settings/general.php:154
+#: includes/admin/templates/settings/general.php:200
+#: includes/admin/templates/settings/general.php:212
+#: includes/admin/templates/settings/general.php:253
+#: includes/admin/templates/settings/general.php:298
+#: includes/admin/templates/settings/general.php:319
+#: includes/admin/templates/settings/general.php:363
+#: includes/admin/templates/settings/maintenance.php:24
+#: includes/admin/templates/settings/maintenance.php:58
+#: includes/admin/templates/settings/notifications.php:34
+#: includes/admin/templates/settings/notifications.php:55
+#: includes/admin/templates/settings/notifications.php:67
+#: includes/admin/templates/settings/notifications.php:88
+#: includes/admin/templates/settings/privacy.php:14
+#: includes/admin/templates/settings/privacy.php:25
+#: includes/admin/templates/settings/privacy.php:46
+#: includes/admin/templates/settings/privacy.php:68
+msgid "Enable"
+msgstr "Включить"
+
+#: includes/admin/templates/settings/access-level.php:83
+#: includes/admin/templates/settings/exclusions.php:227
+#: includes/admin/templates/settings/externals.php:231
+#: includes/admin/templates/settings/externals.php:271
+#: includes/admin/templates/settings/general.php:372
+#: includes/admin/templates/settings/maintenance.php:78
+#: includes/admin/templates/settings/notifications.php:207
+#: includes/admin/templates/settings/overview-display.php:42
+#: includes/admin/templates/settings/privacy.php:76
+#: includes/admin/templates/settings/visitor-ip.php:166
+msgid "Update"
+msgstr "Обновление"
+
+#: includes/admin/templates/settings/about.php:80
+msgid "FAQs"
+msgstr "Часто задаваемые вопросы"
+
+#: includes/admin/templates/settings/about.php:121
+msgid "Translations"
+msgstr "Переводы"
+
+#: includes/admin/templates/settings/about.php:42
+msgid "Donate"
+msgstr "Пожертвовать"
+
+#: includes/admin/templates/optimization/resources.php:6
+msgid "Resources/Information"
+msgstr "Ресурсы/информация"
+
+#: includes/admin/templates/optimization/updates.php:36
+msgid "This will replace all IP addresses in the database with hash values and cannot be undo, are you sure?"
+msgstr "Это заменит все IP-адреса в базе данных с хеш-значения и не может быть отмена, вы уверены?"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-browsers.php:148
+#: includes/admin/templates/pages/online.php:12
+#: includes/admin/templates/pages/refer.url.php:33
+#: includes/admin/templates/pages/top-visitors.php:19
+#: includes/admin/templates/pages/visitors.php:26
+#: includes/admin/templates/pages/words.php:27
+msgid "Browser"
+msgstr "Браузер"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:292
+msgid "User Agent"
+msgstr "Браузер"
+
+#: includes/admin/templates/optimization/resources.php:225
+msgid "Client Info"
+msgstr "Информация о клиенте"
+
+#: includes/admin/templates/optimization/resources.php:210
+msgid ", created on "
+msgstr ", создан "
+
+#: includes/admin/templates/optimization/resources.php:208
+msgid "Database file does not exist."
+msgstr "Файл базы данных не существует."
+
+#: includes/admin/templates/optimization/resources.php:194
+msgid "File Info"
+msgstr "Информация о файлах"
+
+#: includes/admin/templates/optimization/resources.php:149
+#: includes/admin/templates/optimization/resources.php:165
+#: includes/admin/templates/optimization/resources.php:181
+#: src/Service/Admin/AddOnDecorator.php:144
+msgid "Not installed"
+msgstr "Не установлено"
+
+#: includes/admin/templates/optimization/resources.php:147
+#: includes/admin/templates/optimization/resources.php:163
+#: includes/admin/templates/optimization/resources.php:179
+msgid "Installed"
+msgstr "Установлено"
+
+#: includes/admin/templates/optimization/resources.php:132
+msgid "cURL not installed"
+msgstr "cURL не установлен"
+
+#: includes/admin/templates/optimization/resources.php:110
+msgid "jQuery Version"
+msgstr "jQuery версия"
+
+#: includes/admin/templates/optimization/resources.php:68
+msgid "PHP Version"
+msgstr "Версия PHP"
+
+#: includes/admin/templates/optimization/resources.php:57
+msgid "WP Statistics Version"
+msgstr "Версия WP Statistics"
+
+#: includes/admin/templates/optimization/resources.php:52
+msgid "Version Info"
+msgstr "Информация о версииях"
+
+#: includes/admin/templates/optimization/resources.php:38
+msgid "Row"
+msgid_plural "Rows"
+msgstr[0] "Строка"
+msgstr[1] "Строки"
+msgstr[2] "Строк"
+
+#: includes/admin/templates/optimization/resources.php:35
+msgid "Number of rows in the %s table"
+msgstr "Количество строк в таблице %s"
+
+#: includes/admin/templates/optimization/purging.php:201
+msgid "Data"
+msgstr "Данные"
+
+#: includes/admin/templates/optimization/purging.php:10
+#: includes/admin/templates/optimization/purging.php:42
+#: includes/admin/templates/optimization/purging.php:73
+#: includes/admin/templates/optimization/purging.php:104
+#: includes/admin/templates/optimization/purging.php:137
+#: includes/admin/templates/optimization/purging.php:170
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:261
+#: includes/admin/class-wp-statistics-admin-assets.php:281
+#: includes/admin/class-wp-statistics-admin-network.php:62
+#: includes/admin/pages/class-wp-statistics-admin-page-visitors.php:32
+#: includes/admin/templates/pages/country.php:12
+#: includes/admin/templates/pages/hits.php:25
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:38
+#: includes/class-wp-statistics-menus.php:186
+#: includes/class-wp-statistics-shortcode.php:197
+msgid "Visitors"
+msgstr "Посетители"
+
+#: includes/admin/templates/optimization/export.php:19
+#: includes/admin/templates/optimization/export.php:38
+#: includes/admin/templates/settings/exclusions.php:111
+#: includes/admin/templates/settings/general.php:229
+#: includes/admin/templates/settings/notifications.php:113
+#: includes/admin/templates/settings/notifications.php:148
+msgid "Please select"
+msgstr "Выберите"
+
+#: includes/admin/templates/optimization/export.php:9
+msgid "Export"
+msgstr "Экспорт"
+
+#: includes/class-wp-statistics-menus.php:214
+msgid "Countries"
+msgstr "Страны"
+
+#: includes/admin/templates/pages/online.php:19
+#: includes/admin/templates/pages/refer.url.php:32
+#: includes/admin/templates/pages/top-visitors.php:27
+#: includes/admin/templates/pages/visitors.php:39
+#: includes/admin/templates/pages/words.php:35
+msgid "IP"
+msgstr "IP"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-summary.php:44
+msgid "(Adjustment)"
+msgstr "(Корректировка)"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-summary.php:43
+msgid "Current Time and Date"
+msgstr "Текущие дата и время"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:274
+msgid "Daily Total"
+msgstr "Итого за день"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:264
+#: includes/admin/class-wp-statistics-admin-assets.php:297
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:55
+msgid "Yesterday"
+msgstr "Вчера"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:263
+#: includes/admin/class-wp-statistics-admin-assets.php:296
+#: includes/admin/class-wp-statistics-admin-assets.php:408
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:54
+msgid "Today"
+msgstr "Сегодня"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-browsers.php:107
+msgid "Other"
+msgstr "Другие"
+
+#: includes/admin/templates/header.php:21
+msgid "More"
+msgstr "Подробнее"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:275
+#: includes/admin/templates/pages/refer.url.php:37
+#: includes/admin/templates/pages/top-visitors.php:2
+#: includes/admin/templates/pages/top-visitors.php:26
+#: includes/admin/templates/pages/visitors.php:35
+#: includes/admin/templates/pages/words.php:34
+msgid "Date"
+msgstr "Дата"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:262
+#: includes/admin/class-wp-statistics-admin-assets.php:291
+#: includes/admin/class-wp-statistics-admin-network.php:60
+#: includes/admin/class-wp-statistics-admin-post.php:60
+#: includes/admin/class-wp-statistics-admin-post.php:167
+#: includes/admin/class-wp-statistics-admin-taxonomy.php:56
+#: includes/admin/class-wp-statistics-admin-taxonomy.php:63
+#: includes/admin/class-wp-statistics-admin-user.php:33
+#: includes/admin/templates/optimization/purging.php:253
+#: includes/admin/templates/pages/hits.php:23
+#: includes/admin/templates/pages/pages.php:46
+#: includes/admin/templates/pages/taxonomies.php:98
+#: includes/admin/templates/pages/taxonomies.php:123
+#: includes/admin/templates/pages/top-visitors.php:31
+#: includes/admin/templates/pages/visitors.php:41
+#: includes/admin/templates/settings/maintenance.php:70
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:37
+#: includes/class-wp-statistics-menus.php:172
+#: includes/class-wp-statistics-shortcode.php:196
+msgid "Visits"
+msgstr "Визиты"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:280
+#: includes/admin/templates/pages/country.php:11
+#: includes/admin/templates/pages/online.php:14
+#: includes/admin/templates/pages/refer.url.php:35
+#: includes/admin/templates/pages/top-visitors.php:21
+#: includes/admin/templates/pages/top.refer.php:25
+#: includes/admin/templates/pages/visitors.php:28
+#: includes/admin/templates/pages/words.php:29
+msgid "Country"
+msgstr "Страна"
+
+#: includes/admin/templates/pages/page-chart.php:56
+#: includes/class-wp-statistics-meta-box.php:140
+msgid "Top Countries"
+msgstr "Топ стран"
+
+#: includes/admin/templates/pages/online.php:20
+msgid "Online For"
+msgstr "Для онлайн"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:260
+#: includes/admin/pages/class-wp-statistics-admin-page-online.php:25
+#: includes/admin/templates/pages/page-chart.php:86
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:36
+#: includes/class-wp-statistics-shortcode.php:195
+#: includes/class-wp-statistics-widget.php:41
+#: includes/class-wp-statistics-widget.php:264
+msgid "Online Users"
+msgstr "Сейчас на сайте"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:99
+msgid "Donate Now!"
+msgstr "Пожертвовать сейчас!"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:99
+msgid "Have you thought about donating to WP Statistics?"
+msgstr "Вы думали о том, чтобы пожертвовать на WP Statistics?"
+
+#: includes/admin/templates/pages/online.php:21
+#: includes/admin/templates/pages/visitors.php:46
+msgid "Page"
+msgstr "Страницы"
+
+#: includes/admin/templates/pages/online.php:51
+#: includes/admin/templates/pages/refer.url.php:55
+#: includes/admin/templates/pages/top-visitors.php:60
+#: includes/admin/templates/pages/visitors.php:68
+msgid "Map"
+msgstr "Карта"
+
+#: includes/admin/class-wp-statistics-admin-template.php:237
+#: includes/admin/pages/class-wp-statistics-admin-page-category.php:60
+#: includes/admin/pages/class-wp-statistics-admin-page-tags.php:61
+#: includes/admin/pages/class-wp-statistics-admin-page-visitors.php:54
+#: includes/admin/pages/class-wp-statistics-admin-page-words.php:44
+#: includes/admin/templates/layout/select.php:32
+#: includes/admin/templates/optimization/database.php:47
+#: includes/admin/templates/optimization/purging.php:217
+#: includes/admin/templates/pages/refer.url.php:3
+#: includes/admin/templates/pages/top.refer.php:4
+#: includes/class-wp-statistics-widget.php:326
+msgid "All"
+msgstr "Все"
+
+#: includes/admin/templates/pages/exclusions.php:31
+#: includes/admin/templates/pages/hits.php:37
+msgid "All Time Total:"
+msgstr "За все время:"
+
+#: includes/admin/templates/pages/exclusions.php:26
+#: includes/admin/templates/pages/hits.php:29
+msgid "Chart Total:"
+msgstr "Диаграмма Итого:"
+
+#: includes/admin/class-wp-statistics-admin-network.php:72
+#: includes/admin/templates/pages/exclusions.php:22
+#: includes/class-wp-statistics-menus.php:263
+#: includes/class-wp-statistics-meta-box.php:292
+msgid "Exclusions"
+msgstr "Исключения"
+
+#: includes/class-wp-statistics-exclusion.php:26
+msgid "Referrer Spam"
+msgstr "Реферральный спам"
+
+#: includes/class-wp-statistics-exclusion.php:29
+msgid "Excluded URL"
+msgstr "Исключенные URL"
+
+#: includes/class-wp-statistics-exclusion.php:34
+msgid "Robot threshold"
+msgstr "Порог робота"
+
+#: includes/class-wp-statistics-exclusion.php:31
+msgid "Host name"
+msgstr "Имя хоста"
+
+#: includes/class-wp-statistics-exclusion.php:32
+msgid "GeoIP"
+msgstr "GeoIP"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:273
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:59
+msgid "Total"
+msgstr "Всего"
+
+#: includes/class-wp-statistics-exclusion.php:30
+msgid "User Role"
+msgstr "Роль пользователя"
+
+#: includes/class-wp-statistics-exclusion.php:25
+msgid "Admin Page"
+msgstr "Админпанель"
+
+#: includes/class-wp-statistics-exclusion.php:24
+#: includes/class-wp-statistics-pages.php:368
+msgid "Login Page"
+msgstr "Страница авторизации"
+
+#: includes/class-wp-statistics-exclusion.php:23
+msgid "Self Referral"
+msgstr "Переход с этого сайта"
+
+#: includes/class-wp-statistics-exclusion.php:22
+msgid "IP Match"
+msgstr "Совпадение IP"
+
+#: includes/class-wp-statistics-exclusion.php:20
+msgid "Robot"
+msgstr "Робот"
+
+#: includes/admin/templates/pages/top-visitors.php:28
+#: includes/admin/templates/pages/visitors.php:40
+msgid "Platform"
+msgstr "Платформа"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:277
+#: includes/admin/class-wp-statistics-admin-network.php:69
+#: includes/class-wp-statistics-menus.php:242
+msgid "Browsers"
+msgstr "Браузеры"
+
+#: includes/class-wp-statistics-purge.php:173
+msgid "Please select a value over 30 days."
+msgstr "Пожалуйста, выберите значение более 30 дней."
+
+#: includes/class-wp-statistics-purge.php:167
+#: includes/class-wp-statistics-purge.php:168
+#: includes/class-wp-statistics-purge.php:230
+#: includes/class-wp-statistics-purge.php:231
+msgid "Database pruned on"
+msgstr "База данных уменьшена на"
+
+#: includes/admin/class-wp-statistics-admin-template.php:231
+msgid "1 Year"
+msgstr "1 год"
+
+#: includes/admin/class-wp-statistics-admin-template.php:230
+msgid "9 Months"
+msgstr "9 месяцев"
+
+#: includes/admin/class-wp-statistics-admin-template.php:229
+msgid "6 Months"
+msgstr "6 месяцев"
+
+#: includes/admin/class-wp-statistics-admin-template.php:228
+msgid "3 Months"
+msgstr "3 месяца"
+
+#: includes/admin/class-wp-statistics-admin-template.php:227
+msgid "2 Months"
+msgstr "2 месяца"
+
+#: includes/admin/class-wp-statistics-admin-template.php:226
+msgid "30 Days"
+msgstr "30 дней"
+
+#: includes/admin/class-wp-statistics-admin-template.php:225
+msgid "20 Days"
+msgstr "20 дней"
+
+#: includes/admin/class-wp-statistics-admin-template.php:224
+msgid "10 Days"
+msgstr "10 дней"
+
+#: includes/class-wp-statistics-search-engine.php:107
+msgid "Yandex"
+msgstr "Яндекс"
+
+#: includes/class-wp-statistics-search-engine.php:97
+msgid "Yahoo!"
+msgstr "Yahoo!"
+
+#: includes/class-wp-statistics-search-engine.php:87
+msgid "Google"
+msgstr "Google"
+
+#: includes/class-wp-statistics-search-engine.php:77
+msgid "DuckDuckGo"
+msgstr "DuckDuckGo"
+
+#: includes/class-wp-statistics-search-engine.php:67
+msgid "clearch.org"
+msgstr "clearch.org"
+
+#: includes/class-wp-statistics-search-engine.php:57
+msgid "Bing"
+msgstr "Bing"
+
+#: includes/class-wp-statistics-search-engine.php:47
+msgid "Baidu"
+msgstr "Baidu"
+
+#: includes/class-wp-statistics-search-engine.php:37
+msgid "Ask.com"
+msgstr "Ask.com"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-post.php:29
+msgid "This post is not yet published."
+msgstr "Это сообщение еще не опубликовано."
+
+#: includes/class-wp-statistics-meta-box.php:80
+msgid "Quick Stats"
+msgstr "Краткая статистика"

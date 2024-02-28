@@ -1,0 +1,10 @@
+// Two direction sticky sidebar
+.active-sticky-sidebar {
+
+  @media (min-width: 770px) {
+	.row > .bs-vc-wrapper,
+	.row.main-section {
+	  display: flex;
+	}
+  }
+}

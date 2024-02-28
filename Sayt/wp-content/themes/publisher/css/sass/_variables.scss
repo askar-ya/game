@@ -1,0 +1,40 @@
+//
+// Variable Notes:
+//
+// The calc(1px - 1px) Value:
+// The WP cache plugins are compressing the 0px to 0 and it breaks the
+// CSS Calc functions nad because of that we used the calc(1px - 1px) to get 0px
+//
+:root {
+
+  //
+  // Typhography
+  //
+  --themename-system-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+
+
+  //
+  // Color Variables
+  //
+
+  // Primary or Theme Color
+  --themename-primary-color: #0080ce;
+
+
+  //
+  // Header Variables
+  //
+
+  // Main Menu Height
+  --themename-menu-height: calc(1px - 1px);
+
+
+  //
+  // Advanced or Other Variables
+  //
+
+  // The WP adminbar height. default is 0 means no adminbar
+  // the rela value will be added by JS
+  --wp-adminbar-height: calc(1px - 1px);
+
+}
